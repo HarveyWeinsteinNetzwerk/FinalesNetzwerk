@@ -1,0 +1,1431 @@
+---
+title: "226305 Forschungsbericht Harvey Weinstein"
+author: Clara Schneemann | cs286@hdm-stuttgart.de, Lili Biberthaler | lb144@hdm-stuttgart.de,
+  Michelle Noss | mn063@hdm-stuttgart.de, Valerija Vasylevytska | vv010@hdm-stuttgart.de,
+  Julia Lindner | jl125@hdm-stuttgart.de
+date: "Sommersemester 2020 - Wintersemester 2020/2021"
+output:
+  word_document:
+    toc: yes
+    toc_depth: '3'
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+subtitle: Analyse der von Harvey Weinstein belästigten Frauen und deren Verbindungen
+---
+
+# 1. Abstract
+Die Netzwerkforschung erlebte in den letzten Jahren einen großen Aufschwung und ist in der heutigen Zeit kaum wegzudenken. Selten gibt es noch ein sozialwissenschaftliches Fachgebiet oder eine spezielle Soziologie, in der die Netzwerkperspektive keine Rolle spielt. Bei der Netzwerkforschung geht es darum, die Grundlage der Soziologie, demensprechend die Beziehungen und das Beziehungsgefüge in Betracht zu nehmen (Stegbauer & Häußling, 2010).
+Die methodische Vorgehensweise der Netzwerkanalyse kann für jedes Themengebiet angewendet werden. Der nachfolgende Forschungsbericht beschäftigt sich mit dem Beziehungsnetzwerk „Der Fall Harvey Weinstein“. Hier wird beleuchtet, welche Schauspielerinnen von Harvey Weinstein belästigt wurden und in welchem Zusammenhang sie miteinander standen. 
+
+
+# 2. Einleitung, Forschungsfrage, der Fall und die Motivation
+Im folgenden Forschungsbericht möchten wir, das Team „Harvey Weinstein“, unsere aus dem Sommer- und Wintersemester 2020 erreichten Ergebnisse des Moduls “Netzwerkforschung” unter Leitung von Prof. Dr. Swaran Sandhu gegliedert vorstellen.
+Dazu werden wir zunächst unsere anfängliche Forschungsfrage darlegen und anhand der sich ergebenden Änderungen erläutern, wie wir zu unserer finalen Version der Forschungsfrage gekommen sind. Dabei werden wir auf die einzelnen Entwicklungsschritte eingehen. Zudem analysieren wir den aktuellen Stand der empirischen und theoretischen Literatur.
+Die Themenwahl verlief aufgrund der freien Vorgabe des Dozenten reibungslos. Durch unser gemeinsames Interesse am Weinstein Skandal, fand sich unser Team sehr schnell. Dementsprechend waren wir uns bewusst, dass wir uns die nächsten zwei Semester intensiv mit dem Fall „Harvey Weinstein“ auseinandersetzen wollten.
+
+## Der Fall Harvey Weinstein
+Der US-Amerikanische Filmproduzent Harvey Weinstein wurde im Oktober 2017 erstmals der sexuellen Belästigung, der sexuellen Nötigungen und der Vergewaltigung beschuldigt. In den Vorwürfen, u.a aus der New York Times und dem Guardian heißt es, Weinstein soll dies jahrzehntelang gegenüber dutzenden Frauen aus der Filmindustrie ausgeübt haben. Der berühmte Filmproduzent bestritt jedoch, nicht einvernehmlichen Sex gehabt zu haben. Im Zuge des Skandals rief Alyssa Milano die „Me Too“ Bewegung hervor, um noch mehr Aufmerksamkeit für das Thema zu schaffen. „Me Too“ ist ein Hashtag, der in den Sozialen Netzwerk verbreitet wurde. Unter diesem bekunden sich Frauen, schon einmal sexuell belästigt worden zu sein und beschreiben ihre Erfahrungen oder beschränken sich nur auf das Verbreiten des Hashtags, um Aufmerksamkeit für das oft nicht ernst genommene Thema zu generieren. 
+An dem Thema, speziell dem Fall Harvey Weinstein, interessieren uns vordergründig die Verbindungen zwischen den Missbrauchsopfern und inwiefern diese in Kontakt miteinander standen. Daraus entwickelte sich unsere Motivation, mehr über die einzelnen Geschichten der Frauen herauszufinden und dabei eventuelle Zusammenhänge zu finden. Mit folgenden Fragen beschäftigten wir uns:
+- Haben die Frauen von den Vorfällen der Anderen (Kolleginnen, Mitstreiterinnen usw.) gewusst?
+- Basiert der Kontakt auf privater oder beruflicher Verbindung?
+- Haben sie darüber miteinander geredet oder sich gar verbündet, um etwas dagegen zu tun?
+- Hatten sie überhaupt die Chance dazu, beziehungsweise was ist an den Gerüchten der Unterdrückung seitens Weinsteins gegenüber den Frauen wahr?
+- Welche Frauen klagten?
+- Hatte Weinstein ein bestimmtes Muster bei seinen Missbrauchstaten? 
+
+## Vorgehen und Hypothesen
+
+Wir waren uns einig, eine sehr breitgefächerte Recherche zu betreiben, bei der wir alle Frauen, von denen bekannt war, von Weinstein sexuell belästigt worden zu sein, in unser Netzwerk aufnehmen wollten. Als Grundlage dafür suchten wir anfangs die Filme jeder dieser Schauspielerinnen heraus, um auf ihre Verbindungen im Filmgeschäft zu stoßen. Dadurch erhofften wir uns ein Netzwerk zu erschaffen, welches einen Überblick über alle privaten sowie beruflichen Verbindungen der Schauspielerinnen untereinander aufzeigt.
+
+Unsere weitere Vorgehensweise basierte auf folgenden Hypothesen:
+
+-	Die Schauspielerinnen hatten durch ihre berufliche Verbindung Kontakt zueinander.
+-	Die Schauspielerinnen trafen sich außerhalb des Settings.
+-	Die Verbindungen der Schauspielerinnen entstehen auch durch Beziehungspartner, Familie und Freunde.
+-	Die Schauspielerinnen redeten untereinander aber auch mit Familien und Freunden über das Geschehene.
+-	Harvey Weinstein zahlte den Schauspielerinnen Schweigegeldzahlungen um eben das zu unterbinden. 
+-	Die Schauspielerinnen trauten sich nach Drohungen, seitens Weinsteins, nicht an die Öffentlichkeit zu treten.
+-	Harvey Weinstein verfolgte ein bestimmtes Muster bei der Belästigung der Frauen.
+
+
+## 3. Datenerhebung: Zugang, Bereinigung und Codebuch
+
+## Zugang und Forschungsfrage
+Zentral für unsere Erhebung und dem Zugang war eine Liste, die von Focus veröffentlicht wurde: https://praxistipps.focus.de/harvey-weinstein-skandal-diese-frauen-beklagen-sexuelle-belaestigungen_116394. Diese diente als Grundlage für unsere Forschung. Hier wird aufgelistet, welche Frauen von Harvey Weinstein belästigt worden waren. Für uns war dabei primär der erste Teil der Liste relevant, indem die Schauspielerinnen namentlich aufgeführt wurden.
+ 
+Auf Grundlage der herausgefilterten Informationen (alle Schauspielerinnen, die sich namentlich über die Belästigung geäußert haben/an die Öffentlichkeit gegangen sind), suchten wir auf der „Internet Movie Database (IMDb)“ Seite alle Filme heraus, in denen eben diese Schauspielerinnen mitgespielt hatten. Jede Schauspielerinn spielte im Durchschnitt in 65 Filmen mit. Zu dem Zeitpunkt hatten wir 70 für uns in Frage kommende Schauspielerinnen. Dabei war das erste Ziel, herauszufinden, ob die Schauspielerinnen über ihren Beruf verbunden waren. Sprich, ob sie in einem gemeinsamen Film mitgespielt hatten und dadurch die potenzielle Möglichkeit hatten, sich über die Belästigung ausgetauscht haben zu können. Jedoch stellten wir fest, dass wie wir bereits vermutet hatten, viele Isolates vorhanden waren. 
+Da die Isolates suggerieren, keinen beruflichen Kontakt gehabt zu haben und somit nicht der Grundidee unserer Forschung entsprachen, reduzierten wir demnach das Netzwerk auf diejenigen Schauspielerinnen, die auch tatsächlich in mindestens einem Film zusammen gespielt hatten, unabhängig davon, ob das Filme unter Weinstein waren, oder nicht. Das neue verkleinerte Netzwerk, aus beruflich verbundenen Schauspielerinnen, bestand nun aus 30 Knoten. Mit Hilfe des Degree-Wertes filterten wir diejenigen Schauspielerinnen heraus, die in den meisten Filmen mitgespielt haben und somit die meisten Verbindungen zu anderen Schauspielerinnen aufwiesen. 
+Um sinnvoll mit diesem Netzwerk arbeiten zu können, haben wir weitere Recherchen unternommen. Jetzt lag der Fokus nicht mehr auf der beruflichen Bindung, sondern weitete sich und bezog auch persönliche Bindungen, Social-Media und Beziehungen untereinander mit ein. Dafür untersuchten wir Twitter und Instagram auf gemeinsame Vernetzungen der Schauspielerinnen und nutzen das öffentliche Internet für relevante Statements der Schauspielerinnen zu Harvey Weinstein (v.a. folgende Website: https://www.theguardian.com/film/ng-interactive/2017/oct/13/the-weinstein-allegations). Des Weiteren schauten wir die Dokumentation „Untouchable“, lasen das Buch „#metoo“ und recherchierten in Foren, um Überschneidungen zu finden und somit rausfiltern zu können, in welchem Verhältnis die belästigten Schauspielerinnen zu einander standen. Bei der Recherche bezogen wir ebenfalls Journalisten, Freunde, Familie und Beziehungen ein, um herauszufinden, ob eine Verbindung über diese Akteure zu finden war. Außerdem suchten wir nach gerichtlichen Prozessen und ob diese in der Öffentlichkeit diskutiert wurden. Dabei stellte sich uns die Frage, warum die Schauspielerinnen teilweise weiter schwiegen und weiterhin in mehreren Weinstein Filmen mitspielten. Daraufhin fanden wir heraus, dass die Schauspielerinnen Schweigegeldzahlungen erhalten haben und sich aus diesem Grund weder Familie/Freunden anvertrauen konnten, noch an die Öffentlichkeit gehen. Ziel war es grundsätzlich immer herauszufinden, ob sich die Schauspielerinnen kannten und ob sie sich gegenseitig von den Übergriffen erzählten.
+
+Schließlich kamen wir zur folgenden Forschungsfrage:
+„In welchem Zusammenhang stehen die von Harvey Weinstein belästigten Schauspielerinnen im Rahmen der "MeToo"-Bewegung und welche Muster lassen sich dabei erkennen?“
+
+
+## Bereinigung des Datensatzes
+Der Datensatz wurde, wie man oben entnehmen kann, weder anonymisiert noch verändert. Er wurde lediglich mehrfach ergänzt und für die Forschungsfrage optimiert. Der Datensatz ist unter [Github](https://github.com/HarveyWeinsteinNetzwerk ) verfügbar.
+
+## Codebuch
+Das [Codebuch] (https://github.com/HarveyWeinsteinNetzwerk/Codebuch ) beschreibt die Variablen, Relationen und Gewichte des Netzwerks und ist ebenfalls auf Github hinterlegt. 
+
+
+# 4. Forschungsstand der empirischen und theoretischen Literatur
+Im Folgenden wird der Forschungsstand bezogen auf die empirische, sowie die theoretische Literatur, auf Grundlage der Forschungsfrage: „In welchem Zusammenhang stehen die von Harvey Weinstein belästigten Schauspielerinnen im Rahmen der "MeToo"-Bewegung und welche Muster lassen sich dabei erkennen?“ beschrieben. 
+
+Nach gründlicher Recherche ergaben sich folgende Quellen als nützliche Literatur für die Forschung: 
+
+- Buch: #MeToo von Jodi Kantor und Megan Twohey
+-	Dokumentation: Untouchable von Simon Chinn, Jonathan Chinn und Poppy Dixon
+-	Artikel u.A. aus: The Guardian, The New Yorker, New York Times, FAZ
+- Gerichtsverhandlungen der Schauspielerinnen
+
+Aus dem genannten Buch #MeToo wurden folgende Ergebnisse generiert: 
+
+Die Begründerin des Hashtags #MeToo, Tarana Burke startete mit ihrer eigenen Geschichte von Missbrauch, die sogenannte MeToo - Bewegung, welche Frauen dazu aufforderte, ihre Stimme zu erheben und gegen sexuellen Missbrauch vorzugehen, indem man persönliche Erfahrungen an die Öffentlichkeit brachte. Aus dieser Bewegung entstanden weitere Hashtags: #WhatWomanDontReport und #WhereIPutMyself. Diese gaben Frauen die Möglichkeit, sich zu Übergriffen zu äußern und somit Gerechtigkeit zu verlangen. 25 Frauen, die Harvey Weinstein belästigt hat, wurden im Buch namentlich genannt. Nicht jede der Frauen hatte das Interesse zu klagen, beziehungsweise an die Öffentlichkeit zu gehen um gegen den US-Amerikanischen Filmproduzenten Klage zu erheben. Einer der Gründe war ein mit den Frauen abgeschlossener Vergleich. Dieser zwang die Belästigten gegen eine ausgehandelte Summe Geld zum Schweigen und verhinderte somit jegliche mögliche Anklage gegenüber Harvey Weinstein oder der Weinstein Company. Namentlich genannt wurden ebenfalls ehemalige Assistentinnen, Praktikantinnen, Führungskräfte, Models, sowie eine Backup Tänzerin, welche während ihrer Arbeitsvertragszeit für Weinstein Company von Harvey belästigt wurden. Sandeep Rehal sowie Michelle Franklin, Assistentinnen von Weinstein, die Managerinnen der „Harveys Freundinnen“ Liste waren und somit über alle missbrauchten Frauen Bescheid wussten, wurden auch genannt. Als Wissensträgerinnen, sind beide Frauen relevant für die Forschung. 
+
+Um die Forschungsfrage aufzugreifen, werden nun konkrete Beweise für das Zusammentreffen der Schauspielerinnen aufgeführt. Dabei werden nur diese genannt, die unsere Forschungsfrage unterstützen und solche ausgelassen, die sich zwar getroffen hatten, jedoch keine Rolle für unser Netzwerk spielen: 
+
+- „Am 16. Januar 2019 fanden sich in LA auf unsere Bitte zwölf Frauen zusammen, die Teil unserer Berichterstattung gewesen waren“ – Zitat S. 381
+
+  Beteiligte Schauspielerinnen:
+  Gwyneth Paltrow
+  Ashley Judd
+
+- Ashley Judd übernahm auf den Wunsch von Salma Hayek die Rolle Frida im Miramax-Film „Frida“. – S. 57
+
+- „Während der Dreharbeiten in Mexiko verbrachten die beiden (Judd und Hayek) gemeinsam mit ihrem Co-Star Valeria Golino einen freien Tag am Meer, um sich zu erholen“ – Zitat S. 57
+
+- „Als er fort war erzähle sie (Judd) ihren Begleiterinnen was in jenem Hotelzimmer in Los Angeles vorgefallen war. Das sähe ihm ganz ähnlich, meinten sie (Hayek und Golino). Hervey würde immer diese Art Avancen machen. Mit ihnen wäre er ganz ähnlich umgegangen“ – Zitat S. 58 
+- Ashley Judd besuchte im Jahr 2006 mit Salma Hayek HIV-Kliniken und Bordelle in Guatemala, in denen sie sich mit Prostituierten trafen. – S. 60
+
+- Gwyneth Paltrow saß am Set zusammen mit Michelle Pfeiffer und erzählte ihr über die Übergriffe von Harvey und fragte sie, ob sie damit an die Öffentlichkeit gehen sollte. – S. 267
+
+Im persönlichen Gespräch mit den Journalistinnen Jodi Kantor und Megan Twohey, gaben die Belästigten Details über ihre Erfahrungen mit Weinstein preis. Daraus ergibt sich ein klares Muster des Ablaufs. Jede der Frauen wurde auf Harveys Hotelzimmer gebeten. Dort stand er im Bademantel und bot der Frau eine Massage an. Gefolgt von sexuellen Anspielungen, sowie Annäherungsversuchen, wurden die Frauen zu Körperkontakt gezwungen. 
+
+Während die Dokumentation „Untouchable“ leider keine neuen Erkenntnisse ergab, waren es vor allem die unterschiedlichen Artikel der vielen Zeitungen, die unsere Recherche bereicherten und vielfältige Informationen boten.
+
+So berichtete der Guardian 2019 in einem Interview mit Rosanna Arquette beispielsweise davon, dass Gwyneth Paltrow, der Star von Miramax, von Weinstein gerne als Druckmittel verwendet wurde, um andere Schauspielerinnen gefügig zu machen und ihnen im Falle einer Kooperation ihre Chancen aufzuzeigen. (Quelle: https://www.theguardian.com/film/2019/aug/26/rosanna-arquette-they-said-i-was-a-pain-in-the-ass-its-not-true). 
+Eben jene Zeitung war es auch, die Statements der betroffenen Frauen sammelte und weitere Details dokumentierte, sodass das Muster von Weinsteins Vergehen anhand der Informationen bestätigt werden konnte (Quelle: https://www.theguardian.com/film/ng-interactive/2017/oct/13/the-weinstein-allegations). 
+
+Jodi Kantor und Meghan Thowey verfassten jedoch nicht nur ein Buch zur Causa Weinstein, sondern waren auch diejenigen, die in der New York Times als eine der ersten über die Vorfälle und Vorwürfe berichteten (Quelle: https://www.nytimes.com/2017/10/05/us/harvey-weinstein-harassment-allegations.html).
+
+Als der Artikel am 6. Oktober 2017 veröffentlicht wurde, waren zwar noch nicht viele der zahlreichen bekannten Schauspielerinnen mit ihren Statements an die Öffentlichkeit getreten, doch Ashley Judd und Rose McGowan äußerten sich bereits hier zu ihren Fällen. Nur zwei Tage später wurde Weinstein aufgrund der zahlreichen Vorwürfe aus dem Vorstand von Miramax entlassen.
+
+Ronan Farrow berichtete nur kurze Zeit später, am 06. November 2017, über Weinsteins Spionagenetzwerk, welches vor allem damit beauftragt war, die journalistische Verbreitung des Falles zu verhindern und betroffene Schauspielerinnen zum Schweigen zu bringen. 
+Auch hier spielte McGowan erneut eine wichtige Rolle, da in ihrem Fall der Versuch unternommen worden war, den Weg an die Presse zu erschweren und zu verschleiern (Quelle: https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies).
+
+Die FAZ berichtete im Dezember des selben Jahres ebenfalls über Harvey Weinsteins Verstrickungen und seine mächtigen Freunde. Dieser solle immer wieder auf seine Beziehungen zu politischen und wirtschaftlichen Größen wie Barack Obama oder Jeff Bezos verwiesen und sich so Respekt verschafft haben. (Quelle: https://www.faz.net/aktuell/gesellschaft/kriminalitaet/harvey-weinstein-hatte-maechtige-freunde-15327758.html)
+
+Somit ergaben die unterschiedlichen Berichterstattungen nicht nur ein genaueres Bild über Harvey Weinstein als Person, seine Vorgehensweise und die Vertuschungsversuche, sondern wie zuvor bereits genannt auch Auskunft über die verschiedenen Erlebnisse der Schauspielerinnen und ihren Umgang mit den Erfahrungen. 
+
+# 5. Das Start- und das Grundnetzwerk
+
+## 5.1 Laden der relevantesten Packages
+
+```{r Relevanteste Packages abrufen, include=FALSE}
+# Wir laden die relevantesten Packages, um mit ihnen arbeiten zu können.
+library(igraph)
+library(igraphdata)
+library(knitr) 
+library(rmarkdown)
+library(remedy)
+```
+
+## 5.2 Das Grundnetzwerk
+
+***Da im Netzwerk hw alle Verbindungen der Schauspielerinnen und Filme inklusive ihrer relationships dargestellt werden, entfernen wir Letztere nun, um mit dem neuen Grundnetzwerk den ersten Stand unserer Recherche darzustellen. Dieses besteht lediglich aus den Schauspielerinnen und ihren gemeinsamen Filme, da wir mit diesen Informationen nach ersten Verbindungen gesucht haben.***
+
+```{r Vereinfachtes Gesamtnetzwerk, fig.height=12, fig.width=22, message=FALSE, warning=FALSE}
+
+# Zunächst laden wir alles Relevante.
+library(igraph)
+el <- read.csv("https://raw.githubusercontent.com/HarveyWeinsteinNetzwerk/FinalesNetzwerk/main/FinalesNetzwerk%20-%20Edgelist%20(8).csv", header=T, as.is=T, sep = ",")
+nodes <- read.csv("https://raw.githubusercontent.com/HarveyWeinsteinNetzwerk/FinalesNetzwerk/main/FinalesNetzwerk%20-%20Nodelist%20(6).csv", header=T, as.is=T, sep = ",")
+edgematrix <-as.matrix(el)
+hw <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=T)
+hw
+
+# Zunächst definieren wir die Labelfarbe und entfernen die Knotenform und deren Farbe.
+V(hw)[V(hw)$type == 1]$label.color <- "orange" # Filme
+V(hw)[V(hw)$type == 2]$label.color <- "darkgreen" # Schauspielerinnen
+
+V(hw)$color <- "NA"
+V(hw)$frame.color <- "NA" 
+
+# Um das Grundnetzwerk zu erstellen, selektieren wir alle Edge-Attribute "relationship" aus dem Netzwerk.
+Grundnetzwerk <- subgraph.edges(hw, E(hw)[relationship==99]) 
+Grundnetzwerk
+
+# Dann plotten wir das Ganze.
+plot(Grundnetzwerk,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="black",
+     main ="Übersicht Grundnetzwerk",
+     sub="Zeigt nur die Verbindungen zwischen den Schauspielerinnen und ihren gemeinsamen Filmen.")
+
+```
+***Das Grundnetzwerk besteht 17 Knoten und 16 Verbindungen. Es ist gerichtet aber ungewichtet und besitzt drei Komponenten. Zwei davon bestehen je aus einem Film und dessen beiden Schauspielerinnen, während die dritte Komponente ein größeres Geflecht aus verschiedenen Filmen und Schauspielern darstellt.***
+
+```{r Gesamtnetzwerk definieren, echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
+# Nun analysieren wir das Netzwerk weiter:
+
+# Ist das Netzwerk bereits vereinfacht?
+is.simple(Grundnetzwerk)
+
+# Besteht das Netzwerk aus Komponenten? Wenn ja, wie vielen?
+is.connected(Grundnetzwerk)
+components(Grundnetzwerk)
+
+# Dichte des Netzwerks
+edge_density(Grundnetzwerk, loops=FALSE)
+
+# Umfang des Netzwerks
+diameter(Grundnetzwerk)
+
+# Pfaddistanzen innerhalb des Netzwerks
+farthest_vertices(Grundnetzwerk)
+```
+***Das Netzwerk ist bereits vereinfacht, besteht aus 3 nicht-verbundenen Komponenten und hat eine Dichte von 5,8 Prozent. Der Umfang des Netzwerkes beträgt 1 und die größte Pfaddistanz (1) entsteht durch die Verbindung von Kate Beckinsale zu dem Film "The Golden Bowl".***
+
+
+# 6. Die Netzwerkattribute
+
+***Wir möchten im weiteren Verlauf nun mit den Netzwerkattributen arbeiten.***
+```{r Übersicht Netzwerkattribute}
+
+# Dazu listen wir alle Node-Attribute des neuen Grundnetzwerkes auf.
+list.vertex.attributes(Grundnetzwerk)
+
+# Und wir listen wir alle Edge-Attribute des neuen Grundnetzwerkes auf.
+list.edge.attributes(Grundnetzwerk)
+```
+## Analyse der Netzwerkattribute
+
+Das Netzwerk hat demnach folgende Attribute:
+
+*Vertex-Attribute*
+ID/Name
+
+type
+Typus
+1 = Film,
+2 = Schauspielerin.
+
+production
+Produktionsfirma des Filmes
+1 = Miramax,
+2 = The Weinstein Company,
+3 = Universal Studios/Pictures,
+4 = Paramount Pictures,
+5 = andere.
+
+year
+Erscheinungsjahr des Films
+1 = 1980 bis 1989,
+2 = 1990 bis 1999,
+3 = 2000 bis 2009,
+4 = 2010 bis einschließlich 2018.
+
+sex
+Geschlecht
+1 = weiblich,
+2 = männlich.
+
+birth
+Geburtsjahr
+1 = 1950 bis 1960,
+2 = 1961 bis 1970,
+3 = 1971 bis 1980,
+4 = 1981 bis 1990,
+5 = 1991 bis 2000.
+
+ethnicity
+Herkunft
+1 = deutsch,
+2 = Mittel/Osteuropa (auch UK),
+3 = Südeuropa,
+4 = Asien,
+5 = Skandinavien,
+6 = Südamerika,
+7 = Nordamerika (auch Kanada),
+8 = Russland,
+9 = Afrika.
+
+frequency
+Anzahl der Produktionen unter Weinstein (Miramax und The Weinstein Company)
+1 = kein mal,
+2 = bis dreimal,
+3 = ab viermal.
+
+pattern
+entspricht dem Muster von Harvey Weinstein
+1 = entspricht Muster,
+2 = entspricht nicht Muster.
+
+payment
+Schweigegeldzahlungen
+1 = keine Zahlung von Schweigegeld,
+2 = Zahlung.
+
+
+*Edge-Attribut*
+relationship
+Beziehung
+1 = love (Ben Affleck),
+2 = personal connection,
+3 = business connection,
+4 = social media.
+
+## Weiteres Vorgehen aufgrund der Analyse der Netzwerkattribute
+Aus dem Gesamtnetzwerk haben wir nun das Grundnetzwerk herausselektiert. Dieses stellt alle Schauspielerinnen inklusive deren Filme und Verbindungen aufgrund dieser dar. 
+
+Da diese Verbindungen noch keinen Rückschluss darauf geben, ob und in welcher Weise die Schauspielerinnen auch tatsächlichen Kontakt miteinander hatten, selektieren wir nun einzelne Attribute, um diese Verbindungen klarer zu machen. 
+
+Das bedeutet, dass es folgende Teilnetzwerke aufgrund der Node-Attribute gibt:
+1) production 
+2) year
+3) birth
+4) ethnicity
+5) frequency
+6) pattern
+7) payment
+
+Das Attribut "type" ist in dieser Liste nicht erwähnt, da es die Eigenschaften des Grundnetzwerkes darstellt. Das Attribut "sex" ist in dieser Liste ebenfalls nicht erwähnt, da es sich nur um einen männlichen Schauspieler handelt, der somit vom Netzwerk der Schauspielerinnen isoliert wäre. Das hätte keine nennenswerte Auswirkung auf unsere Ergebnisse und wird somit weggelassen.
+
+
+Das bedeutet, dass es folgende Teilnetzwerke aufgrund der Edge-Attributeigenschaften gibt:
+1) love & business connection
+2) personal connection
+4) social media 
+
+Das Beziehungsnetzwerk relationship kennt folgende Ausprägungen:
+1) reziproke Paarbeziehung (1)
+2) reziproke persönliche Beziehungen jeglicher Art (2)
+3) reziproke geschäftliche Beziehungen jeglicher Art (3)
+4) nicht zwangsweise reziproke Verbindung via des sozialen Mediums Instagram (4)
+
+Wir möchten für jede Attributeigenschaft ein eigenes Teilnetzwerk erstellen, da so die einzelnen Beziehungen besser visualisiert und somit auch verglichen werden können. 
+
+# 7. Analyse der Teilnetzwerke der Node-Attribute
+
+## 7.1 Teilnetzwerk nach Verbindung via Produktion
+```{r Teilnetzwerk nach Verbindung via Produktion, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+# Auf Basis des Grundnetzwerkes selektieren wir das Netzwerk so, dass nur die Produktionstypen 1 (Miramax-Filme) bzw. 5 (Filme anderer Produktionsfirmen) angezeigt werden. Zudem löschen wir alle Isolates und restliche Verbindungen heraus, damit nur das hier relevante Netzwerk angezeigt wird. 
+
+Grundnetzwerk <- subgraph.edges(hw, E(hw)[relationship==99])
+production <- Grundnetzwerk
+
+production <- delete_vertices(Grundnetzwerk, V(Grundnetzwerk)[production =="1"])
+production <- delete.vertices(production, which(degree(production)==0))
+production
+
+production2 <- delete_vertices(Grundnetzwerk, V(Grundnetzwerk)[production =="5"])
+production2 <- delete.vertices(production2, which(degree(production2)==0))
+production2
+
+# Dann definieren wir, dass beide nebeneinander stehen sollen.
+par(mfrow=c(1,2), mar=c(2,6,1,4)) 
+
+# Dann plotten wir das Ganze. 
+plot(production,
+    asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="blue",
+     main="Produktionen anderer Firmen")
+
+plot(production2,
+   asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="magenta",
+     main="Miramax Produktionen")
+
+par(mfrow=c(1,1), mar=c(0,0,0,0))
+
+```
+***Auf der linken Seite werden alle Produktionen anderer Firmen als Miramax dargestellt. Diese setzen sich aus fünf Filmen und sechs Schauspielerinnen zusammen, welche bis auf den Film "Possession" mit dessen beiden Schauspielerinnen untereinander verbunden sind. Hier gibt es nur drei Filme und fünf Schauspielerinnen. Der Film "Frida" und dessen Schauspielerinnen sind im Gegensatz zu den anderen beiden Filmen und ihren jeweiligen Darstellerinnen nicht untereinander verbunden. Auf der rechten Seite der Visualisierung werden alle im Netzwerk befindlichen Produktionen der Firma Miramax unter der ehemaligen Führung von Harvey Weinstein gezeigt.Hier gibt es nur drei Filme und fünf Schauspielerinnen. Der Film "Frida" und dessen Schauspielerinnen sind im Gegensatz zu den anderen beiden Filmen und ihren jeweiligen Darstellerinnen nicht untereinander verbunden. Daraus lässt sich schließen, dass die Wahl der Produktionsfirma keine Auswirkung auf die Wahl Harvey Weinsteins bezüglich der sexuell belästigten Frauen hatte: Unter der Führung anderer Produktionsfirmen befand sich eine höhere Zahl an betroffenen Frauen als bei den unter Miramax selbst produzierten. Dementsprechend kann man auch nicht darauf schließen, dass unter den Schauspielerinnen der Miramax Produktionen ein besonderer Austausch stattgefunden hat. Die Produktionsfirma sagt also in diesem Fall auch nichts darüber aus, ob die Darstellerinnen untereinander in Verbindung stehen.***
+
+## 7.2 Teilnetzwerk nach Verbindung via Erscheinungsjahr des Filmes
+```{r Teilnetzwerke nach Verbindung via Erscheinungsjahr des Filmes, fig.height=30, fig.width=30, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+# Auf Basis des Grundnetzwerkes selektieren wir das Netzwerk so, dass die Erscheinungsjahre mit dem entsprechenden Film und Schauspielerin angezeigt werden. Zudem löschen wir alle Isolates und restlichen Verbindungen heraus, damit nur das hier relevante Netzwerk angezeigt wird. 
+
+year <- Grundnetzwerk
+
+Grundnetzwerk <- subgraph.edges(hw, E(hw)[relationship==99])
+Grundnetzwerk
+
+year <- delete_vertices(Grundnetzwerk, V(Grundnetzwerk)[(year != "1")&(type != "2")])
+year <- delete.vertices(year, which(degree(year)==0))
+year
+
+year2 <- delete_vertices(Grundnetzwerk, V(Grundnetzwerk)[(year != "2")&(type != "2")])
+year2 <- delete.vertices(year2, which(degree(year2)==0))
+year2
+
+year3 <- delete_vertices(Grundnetzwerk, V(Grundnetzwerk)[(year != "3")&(type  != "2")])
+year3 <- delete.vertices(year3, which(degree(year3)==0))
+year3
+
+year4 <- delete_vertices(Grundnetzwerk, V(Grundnetzwerk)[(year != "4")&(type  != "2")])
+year4 <- delete.vertices(year4, which(degree(year4)==0))
+year4
+
+```
+```{r Teilnetzwerke nach Verbindung via Erscheinungsjahr des Filmes - visualisiert, fig.height=15, fig.width=15, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+# Dann definieren wir die Visualisierung. 
+par(mfrow=c(1,4), mar=c(3,8,2,10)) 
+
+# Und plotten das Ganze. 
+plot(year,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=20,
+     edge.color="gold",
+     main="1980 bis 1989")
+
+plot(year2,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="orange",
+     main="1990 bis 1999")
+
+plot(year3,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="pink",
+     main="2000 bis 2009")
+
+plot(year4,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="red",
+     main="2010 bis einschließlich 2018")
+
+par(mfrow=c(1,1), mar=c(0,0,0,0))
+
+```
+***In den Jahren 1980 bis 1989 sind zwei Filme aus unserem Netzwerk entstanden: "Wall Street" und "Blade Runner". Da diese auch beide gemeinsame Darstellerinnen besitzen, entsteht hier ein geschlossenes Netzwerk aus vier Knoten. Zwischen 1990 und 1999 sowie 2010 bis einschließlich 2018 ist jeweils nur einer der in unserem Netzwerk befindlichen Filme entstanden: "Even Cowgirls Get the Blues" und "Nymphomaniac: Vol. 1". Diese Produktionen sind mit jeweils zwei Schauspielerinnen verbunden. Von 2000 bis 2009 entstanden vier der in unserem Netzwerk befindlichen Filme: "Possession", "Frida", "Kill Bill: Vol. 1" und "The Golden Bowl". Während "Possession" und "Frida" nur eine Verbindung zu ihren beiden jeweiligen Schauspielerinnen besitzt, ist "Kill Bill: Vol. 1" durch seine Darstellerin Uma Thurman ebenfalls mit "The Golden Bowl" verbunden, da diese an der Produktion ebenfalls mitgewirkt hat.***
+
+## 7.3 Teilnetzwerk nach Verbindung via Geburtsjahr der Schauspielerinnen
+```{r Teilnetzwerke nach Verbindung via Geburtsjahr der Schauspielerinnen, fig.height=3, fig.width = 3, message = FALSE, warning = FALSE, paged.print = FALSE}
+
+# Auf Basis des Grundnetzwerkes selektieren wir das Netzwerk so, dass die Erscheinungsjahre mit dem entsprechenden Film und Schauspielerin angezeigt werden. Zudem löschen wir alle Isolates und restlichen Verbinden heraus, damit nur das relevante Netzwerk angezeigt wird.
+
+Grundnetzwerk_birth <- Grundnetzwerk
+
+Grundnetzwerk_birth
+vertex.attributes(Grundnetzwerk_birth)
+birth1 <- delete_vertices(Grundnetzwerk_birth, V(Grundnetzwerk_birth)[birth != 1])
+birth1 <- delete_vertices(birth1, V(birth1)[type != 2])
+birth1
+
+birth2 <- delete_vertices(Grundnetzwerk_birth, V(Grundnetzwerk_birth)[birth != 2])
+birth2 <- delete_vertices(birth2, V(birth2)[type != 2])
+birth2
+
+birth3 <- delete_vertices(hw, V(hw)[birth != 3])
+birth3 <- delete_vertices(birth3, V(birth3)[type != 2])
+birth3
+```
+```{r Teilnetzwerke nach Verbindung via Geburtsjahr der Schauspielerinnen - visualisiert, fig.height=5, fig.width=10, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+# Dann definieren wir die Visualisierung. 
+par(mfrow=c(1,3), mar=c(3,8,2,10)) 
+
+# Und plotten das Ganze. 
+plot(birth1,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=20,
+     edge.color="NA",
+     main="1950 bis 1960")
+
+plot(birth2,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="1961 bis 1970")
+
+plot(birth3,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="1971 bis 1980")
+
+par(mfrow=c(1,1), mar=c(0,0,0,0))
+
+```
+***Zwischen 1950 und 1960 wurden zwei der belästigten Schauspielerinnen geboren: Sean Young und Daryl Hannah. In den Jahren 1961 bis 1970 kamen vier der Schauspielerinnen auf die Welt: Ashley Judd, Connie Nielsen, Salma Hayek und Uma Thurman. Von 1971 bis 1980 erblickten weitere vier Schauspielerinnen das Licht der Welt: Lena Headey, Kate Beckinsale, Gwyneth Paltrow und Rose McGowan. Somit lässt sich ein erster, grober Altersschwerpunkt der Darstellerinnen zwischen den Geburtsjahren 1961 bis 1980 feststellen.***
+
+## 7.4 Teilnetzwerk nach Verbindung via Herkunft der Schauspielerinnen
+
+```{r Teilnetzwerk nach Verbindung via Herkunft der Schauspielerinnen, fig.height=6, fig.width=14, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+# Auf Basis des Grundnetzwerkes selektieren wir das Netzwerk so, dass die Herkunftsregionen der Schauspielerinnen angezeigt werden. Zudem löschen wir alle Isolates und restlichen Verbindungen heraus, damit nur das hier relevante Netzwerk angezeigt wird. 
+
+ethnicity <- Grundnetzwerk
+ethnicity <- hw
+
+ethnicity <- delete_vertices(Grundnetzwerk, V(Grundnetzwerk)[ethnicity != 2])
+ethnicity
+
+ethnicity2 <- delete_vertices(hw, V(hw)[ethnicity != 3])
+ethnicity2
+
+ethnicity3 <- delete_vertices(Grundnetzwerk, V(Grundnetzwerk)[ethnicity != 7])
+ethnicity3
+
+# Wir definieren die Visualisierungsparamenter.
+par(mfrow=c(1,3), mar=c(3,8,2,12)) 
+
+# Und plotten das Ganze. 
+plot(ethnicity,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     vertex.frame.color="NA",
+     main="Mittel-/Osteuropa (auch UK)")
+
+plot(ethnicity2,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=20,
+     vertex.frame.color="NA",
+     main="Südeuropa")
+
+plot(ethnicity3,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=30,
+     vertex.frame.color="NA",
+     main="Nordamerika (auch Kanada)")
+
+
+par(mfrow=c(1,1), mar=c(0,0,0,0))
+
+```
+***Bezüglich der Herkunft haben sich 3 Regionen für die in unserem Netzwerk befindlichen Schauspielerinnen ergeben: Mittel-/Osteuropa inklusive UK, Südeuropa und Nordamerika inklusive Kanada. Der Schwerpunkt lag hierbei auf Nordamerika: Ashley Judd, Salma Hayek, Daryl Hannah, Uma Thurman, Sean Young sowie Gwyneth Paltrow stammen von hier. Aus Südeuropa stammt lediglich Rose McGowan, während aus Mittel- und Osteuropa Kate Beckinsale, Lena Headey und Connie Nielsen kommen.***
+
+## 7.5 Teilnetzwerk nach Verbindung via Häufigkeit der Produktionen unter Weinstein
+
+```{r Teilnetzwerk nach Verbindung via Häufigkeit der Produktionen unter Weinstein, fig.height=6, fig.width=14, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+# Auf Basis des Grundnetzwerkes selektieren wir das Netzwerk so, dass die Schauspielerinnen sortiert nach ihrer Häufigkeit, in Weinstein Filmen mitgespielt zu haben, angezeigt werden. Zudem löschen wir alle Isolates und restlichen Verbindungen heraus, damit nur das hier relevante Netzwerk angezeigt wird. 
+
+frequency <- Grundnetzwerk
+frequency <- hw
+
+frequency <- subgraph.edges(hw, E(hw)[relationship==99])
+
+frequency <- delete_vertices(Grundnetzwerk, V(Grundnetzwerk)[frequency != 2])
+frequency
+
+frequency2 <- delete_vertices(hw, V(hw)[frequency != 3])
+frequency2
+
+# Dann definieren wir die Visualisierungsparameter.
+par(mfrow=c(1,2), mar=c(3,8,2,12)) 
+
+# Und plotten das Ganze. 
+plot(frequency,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="darkgreen",
+     main="Bis zu 3 Produktionen unter Miramax/The Weinstein Company.")
+
+plot(frequency2,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="Mehr als 3 Produktionen unter Miramax/The Weinstein Company.")
+
+par(mfrow=c(1,1), mar=c(0,0,0,0))
+
+```
+***Sechs der in unserem Netzwerk befindlichen Darstellerinnen haben bis zu drei Mal in Harvey Weinsteins Produktionen mitgewirkt: Lena Headey, Salma Hayek, Ashley Judd, Daryl Hannah, Connie Nielsen und Sean Young. Mehr als drei Mal haben folgende Schauspielerinnen in Produktionen von Miramax oder The Weinstein Company gearbeitet: Rose McGowan, Gwyneth Paltrow, Uma Thurman sowie Kate Beckinsale.***
+
+## 7.6 Teilnetzwerk nach Verbindung via Entsprechung des Harvey Weinsteins Musters
+```{r Teilnetzwerk nach Verbindung via Entsprechung des Harvey Weinsteins Musters, fig.height=6, fig.width=14, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+# Auf Basis des Grundnetzwerkes selektieren wir das Netzwerk so, dass die Schauspielerinnen sortiert nach ihrer Häufigkeit, in Weinstein Filmen mitgespielt zu haben, angezeigt werden. Zudem löschen wir alle Isolates und restlichen Verbindungen heraus, damit nur das hier relevante Netzwerk angezeigt wird. 
+
+hw_pattern <- hw
+
+pattern1 <- delete_vertices(hw_pattern, V(hw_pattern)[pattern != 1])
+pattern1
+
+pattern2 <- delete_vertices(hw_pattern, V(hw_pattern)[pattern != 2])
+pattern2
+
+# Dann definieren wir die Visualisierungsparameter.
+par(mfrow=c(1,2), mar=c(3,8,2,12)) 
+
+# Und plotten das Ganze. 
+plot(pattern1,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="Fall entspricht dem Muster.")
+
+plot(pattern2,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="Fall entspricht nicht dem Muster.")
+
+par(mfrow=c(1,1), mar=c(0,0,0,0))
+
+
+```
+***In 8 von 10 Fällen der in unserem Netzwerk befindlichen Darstellerinnen entsprach der Verlauf der Belästigung dem von Harvey Weinstein typischen Muster. So belästigte er sie alle in einem Hotel, teilweise kamen noch Forderungen nach Massagen oder die Entblößung Weinsteins im Bademantel vor. Lediglich Sean Young, welche an einem Set belästigt wurde, und Connie Nielsen, die das Opfer von Weinsteins Annäherungen im Rahmen einer Filmpremiere wurde, lassen sich nicht dem Muster zuordnen.***
+
+## 7.7 Teilnetzwerk nach Verbindung via Schweigegeldzahlungen
+
+```{r Teilnetzwerk nach Verbindung via Schweigegeldzahlungen, fig.height=6, fig.width=14, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+# Auf Basis des Grundnetzwerkes selektieren wir das Netzwerk so, dass die Schauspielerinnen sortiert nach ihrer Häufigkeit, in Weinstein Filmen mitgespielt zu haben, angezeigt werden. Zudem löschen wir alle Isolates und restlichen Verbindungen heraus, damit nur das hier relevante Netzwerk angezeigt wird. 
+
+hw_payment <- hw
+
+hw_payment <- delete_vertices(hw_payment, V(hw_payment)[type == 1])
+
+payment1 <- delete_vertices(hw_payment, V(hw_payment)[payment != 1])
+payment1
+
+payment2 <- delete_vertices(hw_payment, V(hw_payment)[payment != 2])
+payment2
+
+# Dann definieren wir die Visualisierungsparameter.
+par(mfrow=c(1,2), mar=c(3,8,2,12)) 
+
+# Und plotten das Ganze. 
+plot(payment1,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="keine Schweigegeldzahlung.")
+
+plot(payment2,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="blue",
+     main="Schweigegeldzahlung.")
+
+par(mfrow=c(1,1), mar=c(0,0,0,0))
+
+```
+***Im Falle dieser Gegenüberstellung fällt auf, dass lediglich zwei der in unserem Netzwerk befindlichen Schauspielerinnen eine Zahlung von Schweigegeld erhalten haben: Rose McGowan und Ashley Judd.***
+
+
+# 8. Analyse der Teilnetzwerke der Edge-Attribute
+
+## 8.1 Teilnetzwerk nach Partnerschaft und geschäftlichen Beziehungen
+```{r Teilnetzwerk nach Partnerschaft und geschäftlichen Beziehungen, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+partnerschaft <- hw
+
+# Wir erstellen das Netzwerk Partnerschaft, indem wir das Edge-Attribut relationship nach Liebesbeziehungen und geschäftlichen Beziehungen selektieren und Isolates herauslöschen. 
+
+partnerschaft <- delete.edges(partnerschaft, E(partnerschaft)[(relationship != " 1")&(relationship != " 3")])
+
+partnerschaft <- delete.vertices(partnerschaft, degree(partnerschaft) == 0)
+
+# definiert die Kantenfarben nach dem Edge-Attribut relationship
+E(partnerschaft)[E(partnerschaft)$relationship == " 1"]$color <- "red" # love
+E(partnerschaft)[E(partnerschaft)$relationship == " 3"]$color <- "blue" #business
+
+# Und visualisieren das Ganze. 
+plot(partnerschaft,
+     edge.arrow.size = .5,
+     vertex.frame.color = "white",
+     layout = layout_with_kk,
+     main = "Teilnetzwerk nach Partnerschaft und geschäftlichen Beziehungen")
+```
+***Das Netzwerk zeigt Ben Affleck im Zentrum zweier unterschiedlicher Beziehungsarten. Während er selbst durch seine frühere Liebesbeziehung zu Salma Hayek und Gwyneth Platrow verbunden ist, pflegen diese jeweils geschäftliche Beziehungen (beispielsweise gleiche Rollen in Filmen oder die Vermittlung von Business-Kontakten) zu anderen Schauspielerinnen.***
+
+## 8.2 Teilnetzwerk nach persönlichen Beziehungen 
+```{r Teilnetzwerk nach persönlichen Beziehungen, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+personal_connection <- hw
+
+# Wir definieren die Visualisierung.
+V(hw)$color <- "NA"
+V(hw)$frame.color <- "NA" 
+
+# Und erstellen das Teilnetzwerk. 
+personal_connection <- subgraph.edges(hw, E(hw)[relationship==" 2"]) 
+personal_connection
+
+# Das plotten wir noch. 
+plot(personal_connection,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size= .5,
+     vertex.size=10,
+     edge.color="gold",
+     vertex.label.color="darkgreen",
+     main ="Persönliche Beziehungen")
+
+```
+***Die persönlichen Beziehungen fassen alle Verbindungen zusammen, die den Privatbereich berühren, beispielsweise Freundschaft, Hass, privater Kontakt durch gegenseitigen Austausch und gemeinsame Unternehmungen. Im Falle der persönlichen Beziehungen sieht man, dass Rose McGowan eine zentrale Rolle spielt. Sie verbindet drei unterschiedliche Stränge an Verbindungen unter den Schauspielerinnen miteinander. So verbindet sie beispielsweise eine Beziehung zu Salma Hayek und dadurch auch zu Ashley Judd. Ebenso verhält es sich auch bei ihrer Verbindung zu Uma Thurman, wodurch Kontakte zu Daryl Hannah und Sean Young entstehen. Sean Young wiederrum führt nur eine einseitge Beziehung zu Daryl Hannah - alle anderen Beziehungen sind reziprok. Den einzigen Kontakt, den sich nur Rose McGowan teilt, ist der zu Kate Beckinsale.***
+
+## 8.3 Teilnetzwerk nach Verbindungen über soziale Medien 
+```{r Teilnetzwerk nach Verbindungen über soziale Medien, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+social_media <- hw
+
+# Wir legen die Visualisierung fest. 
+V(hw)$color <- "NA"
+V(hw)$frame.color <- "NA" 
+
+# Wir erstellen das Teilnetzwerk. 
+social_media <- subgraph.edges(hw, E(hw)[relationship==" 4"]) 
+social_media
+
+# Und plotten es.
+plot(social_media,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="purple",
+     vertex.label.color="darkgreen",
+     main ="Verbindungen via Instagram")
+
+```
+***Die Social-Media-relationship umfasst alle Followerschaften des Netzwerks. Dieses besteht jedoch aus reziproken und nicht reziproken Verbindungen, da nicht alle der Schauspielerinnen sich gegenseitig folgen. Außerdem sind nur acht der zehn Darstellerinnen in unserem Netzwerk vorhanden, da Daryl Hannah und Sean Young keinen Instagram-Account besitzen.***
+
+
+# 9. Komponenten 
+
+## 9.1 Komponenten analysieren - Grundnetzwerk visualisieren
+```{r Komponenten analysieren - Grundnetzwerk visualiseren, fig.height=12, fig.width=22}
+
+# Wir laden zunächst hw. 
+library(igraph)
+el <- read.csv("https://raw.githubusercontent.com/HarveyWeinsteinNetzwerk/FinalesNetzwerk/main/FinalesNetzwerk%20-%20Edgelist%20(8).csv", header=T, as.is=T, sep = ",")
+nodes <- read.csv("https://raw.githubusercontent.com/HarveyWeinsteinNetzwerk/FinalesNetzwerk/main/FinalesNetzwerk%20-%20Nodelist%20(6).csv", header=T, as.is=T, sep = ",")
+edgematrix <-as.matrix(el)
+hw <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=T)
+
+# Zunächst definieren wir die Knotenfarbe und Form.
+V(hw)[V(hw)$type == 1]$label.color <- "orange" # Filme
+V(hw)[V(hw)$type == 2]$label.color <- "darkgreen" # Schauspielerinnen
+
+V(hw)$color <- "NA"
+V(hw)$frame.color <- "NA" 
+
+# Und löschen alle relationship Attribute heraus. 
+Grundnetzwerk <- subgraph.edges(hw, E(hw)[relationship==99]) 
+Grundnetzwerk
+
+# Dann zählen wir die Komponenten. 
+count_components(Grundnetzwerk)
+
+# Dann teilen wir die Vertices in Gruppen ein. 
+Grundnetzwerk_groups <- groups(components(Grundnetzwerk))
+Grundnetzwerk_groups
+
+# Dann plotten wir das Ganze.
+plot(Grundnetzwerk,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=5,
+     edge.color="black",
+     main ="Übersicht Grundnetzwerk inklusive der Komponenten",
+     sub="Zeigt alle Verbindungen zwischen den Schauspielerinnen, ihren Beziehungen und Filmen.")
+```
+***Nach der Visualisierung des vereinfachten Netzwerks (Grundnetzwerk bei 4.2) besteht das Netzwerk aus drei Komponenten: einer großen Hauptkomponente mit 11 Knoten und zwei kleineren Komponenten aus jeweils drei Knoten.***
+
+## 9.2 Erweiterte Analyse der Komponenten 
+```{r Erweiterte Analyse der Komponenten in starke und schwache Komponenten}
+
+# Analyse der Verteilung der Komponenenten
+components (Grundnetzwerk, mode = c("weak", "strong"))
+
+# Analyse der starken Komponenten
+components(Grundnetzwerk, mode = "strong")
+
+# Anzahl der Komponenten
+count_components(Grundnetzwerk)
+
+# Aufteilung der Komponenten
+comp_s <- components(Grundnetzwerk)
+groups(comp_s)
+
+```
+***Bei der Komponentenanalyse ergibt sich, dass diejenige der drei Komponenten mit 11 Knoten die Stärkste ist.***
+
+# 10. Cluster
+
+## 10.1 Prüfung vorhandenen Cluster
+```{r Prüfung verbundener Cluster}
+
+# Wir lassen uns die Anzahl der Cluster anzeigen.
+cluster_walktrap(Grundnetzwerk)
+
+```
+
+## 10.2 Cluster-Walktrap
+```{r Cluster-Walktrap, fig.height=10, fig.width=16}
+
+# Wir laden zunächst das Netzwerk. 
+cw_hw <-cluster_walktrap(hw)
+
+# Wir verwenden den Befehl cluster_walktrap um ein Cluster zu erstellen.
+cluster_walktrap(hw)
+
+# Und plotten das Ganze. 
+plot(cw_hw,
+     vertex.size = 5,
+     layout = layout_with_kk,
+     asp = 0,
+     edge.arrow.size = 0.4, 
+     main="Cluster Walktrap des hw Netzwerkes")
+
+```
+***Es wird deutlich, dass das Netzwerk in 3 Cluster zerfällt, die verschieden groß sind. Die verschiedenen Cluster sind nach der Priorität der Relationships erstellt worden. Die Cluster stellen folgendes dar: Grün bedeutet Social Media- und Love-Relationship, Lila verdeutlicht die stärkste Business- und Personal-Relationship und Rot präsentiert nur Personal-Relationships. Daraus lässt sich schließen: Ashley Judd und Salma Hayek pflegen die intensivste persönliche Bindung zueinander und haben ebenfalls in dem Film Frida zusammen gespielt. Rose McGowan, Uma Thurman und Salma Hayek haben besonders starke Beziehungen, die durch das Umfeld gestärkt werden. Dies wird durch die roten Linien verdeutlicht. ***
+
+## 10.3 Edge-Betweenness-Cluster
+
+```{r Edge-Betweenness-Cluster, fig.height=10, fig.width=15}
+
+# Wir laden zunächst das Netzwerk. 
+eb_hw <- hw
+
+# Wir verwenden den Befehl edge_betweenness, um ein Cluster zu erstellen.
+eb_hw <-cluster_edge_betweenness(hw)
+
+# Und plotten das Ganze. 
+plot(eb_hw,
+     Grundnetzwerk,
+     vertex.size = 5,
+     layout = layout_with_kk,
+     asp = 0,
+     edge.arrow.size = 0.4,
+     main = "Edge-Betweenness-Cluster des hw Netzwerkes")
+
+```
+***Das Edge-Betweenness-Cluster zerlegt das Netzwerk in 5 Komponenten. An den sogenannten "Sollbruchstellen" sind die Knoten abgebildet, die in hohem Maße für die Verbindung zu anderen Knoten beitragen. In unserem Fall wären das Uma Thurman, Salma Hayek, Gwyneth Paltrow, Rose McGowan, Kate Beckinsale und Connie Nielsen. Das einzige Cluster, das inhaltlich klar definierbar ist, ist das gelbe. Es stellt eine Social-Media-Verbindung von Rose McGowan und Kate Beckinsale dar.***
+
+
+# 11. Cliquen
+```{r Cliquen, fig.height=5, fig.width=5}
+
+# Wir schauen uns die Dreiecke/Cliquen, im Netzwerk hw an. 
+count_triangles(hw)
+
+# Wir zählen die Cliquen-Anzahl im Netzwerk.
+clique_num(hw)
+
+# Wir lassen uns die größte Clique anzeigen. 
+grossecli <-largest_cliques(hw)
+grossecli
+ma_cli <-subgraph(hw, grossecli[[1]])
+
+# Wir visualisieren das Ganze. 
+V(ma_cli)[V(ma_cli)$type==2]$color <- "darkgreen"#Schauspielerin
+V(ma_cli)[V(ma_cli)$type==1]$color <- "orange" #Filme
+
+# Und plotten es. 
+plot(ma_cli,
+     main = "Größte Clique", 
+     edge.color="black",
+     vertex.color="NA",
+     vertex.frame.color="NA",
+     edge.arrow.size=.5)
+
+```
+***Die Berechnungen zeigen uns, dass es 8 Cliquen im hw Netzwerk gibt. Die größte wird von Daryl Hannah, Sean Young und dem Film "Wall Street" realisiert. Die einzige Verbindung zwischen den Schauspielerinnen ist persönlicher Natur.***
+
+# 12. Egonetzwerk der stärksten Verbindungen
+```{r Ego-Netzwerk erstellen}
+
+# Wir berechnen den degree Wert des Netzwerks hw.
+degree(hw)
+
+# Salma Hayek hat die meisten Verbindungen. Wir erstellen deshalb das Ego-Netzwerk (1. Ordnung) um sie. 
+salma <- make_ego_graph(hw, order = 1, nodes = V(hw)$name == "Salma Hayek", mode ="all")
+salma
+
+# Man braucht diesen Zwischenschritt, damit das igraph-Objekt von salma1 hergestellt ist.
+salma1 <- salma[[1]]
+salma1
+
+# Dann legen wir die Visualisierung fest. 
+V(salma1)[V(salma1)$type == 1]$label.color <- "orange" 
+V(salma1)[V(salma1)$type == 2]$label.color <- "darkgreen" 
+
+V(salma1)$color <- "NA"
+V(salma1)$frame.color <- "NA" 
+V(salma1)[V(salma1)$name == "Salma Hayek"]$label.color <- "red" 
+
+# Dann plotten wir es.
+plot(salma1,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="black",
+     main ="Ego-Netzwerk von Salma Hayek, erster Grad")
+
+```
+***Mithilfe des degree Wertes stellen wir fest, dass Salma Hayek die meisten Verbindungen hat. Ebenfalls sieht man Interaktionen der anderen Knoten untereinander. Die stärkste Verbindung hat Salma Hayek zu Ashley Judd, da sie mit ihr eine Personal-, eine Business und eine Social- Media-Relationship besitzt, sowie mit ihr gemeinsam in einem Film spielt. Danach folgt Rose McGowan, die die zuvor genannten Relationships mit ihr teilt, aber nicht zusammen mit ihr in einem Film gespielt hat. Zusätzlich ist das Love-Triangle zwischen Salma Hayek, Gwyneth Paltrow und Ben Affleck im Ego-Netzwerk dargestellt.***
+
+# 13. Zentralitätsmaße
+
+## 13.1 Closeness 
+```{r Closeness} 
+
+# Wir berechnen den Closeness-Wert. 
+closeness(hw, normalized = TRUE)
+
+# Und lassen uns den Knoten mit dem 
+which.max(closeness(hw, normalized = TRUE))
+
+```
+***Den höchsten Closeness Wert zeigt Connie Nielsen auf. Sie hat nicht den höchsten Degree-Wert, ist also in Bezug auf ihre Beziehungen unwichtig, aber zum Erreichen anderer Teile des Netzwerkes wichtig und hat somit den Knoten mit dem höchsten Hub-Effekt inne.*** 
+
+## 13.2 Degree 
+```{r Degree, fig.height=10, fig.width=15}
+
+# Wir berechnen den Degree-Wert
+de <- hw
+
+de <- degree(hw,
+       mode = c("all", "out", "in", "total"),
+       loops = FALSE,
+       normalized = FALSE)
+
+# Wir berechnen den Knoten mit dem höchsten Degree-Wert
+which.max(degree(hw, normalized = TRUE))
+
+# Das visualisieren wir.
+V(hw)$color <- "NA"
+V(hw)$frame.color <- "black" 
+V(hw)[V(hw)$name == "Salma Hayek"]$frame.color <- "red"
+V(hw)[V(hw)$name == "Salma Hayek"]$label.color <- "red"
+V(hw)[V(hw)$name == "Uma Thurman"]$label.color <- "darkgreen"
+
+plot(hw,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=degree(hw)/0.6,
+     edge.color="black",
+     main = "Degree-Verteilung")
+
+```
+***Es zeigt sich, dass Salma Hayek den höchsten Degree-Wert hat. Sie ist also diejenige, die die meisten Verbindungen zu anderen Personen hat, für uns also eine zentrale Figur im Netzwerk.***
+
+## 13.3 Betweenness
+
+```{r Betweenness, fig.height=10, fig.width=15}
+
+# Berechnung der Betweeness-Wertes
+be <- betweenness(hw,
+                  directed = TRUE,
+                  normalized = FALSE)
+
+# Berechnung des Wertes mit dem höchsten Betweenness-Wert
+which.max(betweenness(hw, normalized = TRUE))
+
+# Das visualisieren wir.
+V(hw)$color <- "NA"
+V(hw)$frame.color <- "black" 
+V(hw)[V(hw)$name == "Uma Thurman"]$frame.color <- "red"
+V(hw)[V(hw)$name == "Uma Thurman"]$label.color <- "red"
+V(hw)[V(hw)$name == "Salma Hayek"]$label.color <- "darkgreen"
+
+plot(hw,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=betweenness(hw)/3,
+     edge.color="black",
+     main = "Betweenness-Verteilung")
+
+```
+***Den höchsten Betweenness-Wert weist Uma Thurman auf. Das bedeutet, dass sie eine zentrale Schnittstelle ist, um zu anderen Knoten zu gelangen.***
+
+# 14. Erweiterte Analyse
+
+## 14.1 Das hw Netzwerk
+
+```{r Startnetzwerk erstellen, echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
+
+library(igraph)
+
+# Einlesen der Edge- und Nodelist
+el <- read.csv("https://raw.githubusercontent.com/HarveyWeinsteinNetzwerk/FinalesNetzwerk/main/FinalesNetzwerk%20-%20Edgelist%20(8).csv", header=T, as.is=T, sep = ",")
+nodes <- read.csv("https://raw.githubusercontent.com/HarveyWeinsteinNetzwerk/FinalesNetzwerk/main/FinalesNetzwerk%20-%20Nodelist%20(6).csv", header=T, as.is=T, sep = ",")
+
+# Matrix erstellen
+edgematrix <-as.matrix(el)
+
+# Zusammenführen von Edge- und Nodelist als igraph-Objekt hw
+hw <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=T)
+hw
+```
+
+```{r Einfache Visualisierung des erstellten Objekts, fig.height=10, fig.width=14, message=TRUE, warning=TRUE, paged.print=TRUE}
+# Nun möchten wir das Netzwerk visualiseren
+
+# Zunächst definieren wir die Knotenfarbe und Form.
+V(hw)[V(hw)$type == 1]$label.color <- "orange" # Filme
+V(hw)[V(hw)$type == 2]$label.color <- "darkgreen" # Schauspielerinnen
+
+V(hw)$color <- "NA"
+V(hw)$frame.color <- "NA" 
+
+# Dann plotten wir das Ganze.
+plot(hw,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="black",
+     main ="Übersicht hw Netzwerk",
+     sub="Zeigt alle Verbindungen zwischen den Schauspielerinnen, ihren Beziehungen und Filmen.")
+
+```
+***Das Netzwerk hw setzt sich aus 19 Knoten und 48 Verbindungen zusammen. Im Gegensatz zum Grundnetzwerk weist dieses mehr Verbindungen auf, da hier das Edge-Attribut relationship inkludiert ist. Es besitzt reziproke sowie nicht reziproke Elemente und besteht aus einer Komponente.***
+
+## 14.2 Transitivität und Homophilie im Netzwerk
+
+Transitivität
+transitivity(hw)
+***Die Reziprozität des hw Netzwerks beträgt 24,5 Prozent.***
+
+Reziprozität 
+reciprocity(hw, ignore.loops = TRUE, mode = c("default", "ratio"))
+***Die Reziprozität des hw Netzwerks beträgt 50 Prozent.***
+
+
+Weiterführende Analyse mit dem Befehl Reziprozität: 
+reciprocity(social_media, ignore.loops = TRUE, mode = c("default", "ratio"))
+reciprocity(personal_connection, ignore.loops = TRUE, mode = c("default", "ratio"))
+reciprocity(partnerschaft, ignore.loops = TRUE, mode = c("default", "ratio"))
+
+***Die Reziprozität von Social-Media beträgt 46,2 Prozent, die von Partnerschaft 100 Prozent und dei von persönlichen Verbindungen 90,1 Prozent.***
+
+## 14.3 Teilnetzwerke im Vergleich (Edge-Attribute)
+```{r Teilnetzwerke im Vergleich, fig.height=6, fig.width=14, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+# Dann definieren wir die Visualisierungsparameter.
+par(mfrow=c(1,3), mar=c(3,8,2,12)) 
+
+# Partnerschaft (Love & Business Connection) 
+plot(partnerschaft,
+     edge.arrow.size = .5,
+     vertex.frame.color = "white",
+     layout = layout_with_kk,
+     main = "Teilnetzwerk nach Partnerschaft und geschäftlichen Beziehungen")
+
+# Personal Connection
+plot(personal_connection,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size= .5,
+     vertex.size=10,
+     edge.color="gold",
+     vertex.label.color="darkgreen",
+     main ="Persönliche Beziehungen")
+
+# Social Media
+plot(social_media,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="purple",
+     vertex.label.color="darkgreen",
+     main ="Verbindungen via Instagram")
+
+par(mfrow=c(1,1), mar=c(0,0,0,0))
+
+```
+
+## 14.4 Teilnetzwerke im Vergleich (Node-Attribute)
+```{r Teilnetzwerke im Vergleich, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+# Zur besseren Visualisierung und dem Vergleich, setzten wir relevant oben erstellte Verbindungen der Node-Attribute nebeneinander. 
+
+# Dann definieren wir die Visualisierungsparameter.
+par(mfrow=c(1,6), mar=c(3,8,2,12)) 
+
+# Frequency 
+plot(frequency,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="Bis zu 3 Weinstein Produktionen.")
+
+plot(frequency2,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="Mehr als 3 Weinstein Produktionen.")
+
+# Pattern
+plot(pattern1,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="Fall entspricht dem Muster.")
+
+plot(pattern2,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="Fall entspricht nicht dem Muster.")
+
+# Payment
+plot(payment1,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="keine Schweigegeldzahlung.")
+
+plot(payment2,
+     asp=0,
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     edge.color="NA",
+     main="Schweigegeldzahlung.")
+
+par(mfrow=c(1,1), mar=c(0,0,0,0))
+
+```
+
+
+## 14.5 Visualisierung eines multiplexen Netzwerks
+
+```{r Visualisierung eines multiplexen Netzwerks, fig.height=10, fig.width=10, message=TRUE, paged.print=TRUE}
+
+V(hw)$frame.color <- "gray"
+V(hw)$color <- "white"
+V(hw)$shape <- "square"
+
+hw_komplex <- hw
+
+hw_komplex <- delete_vertices(hw, V(hw)[type == 1]) 
+
+# Und definieren die Visualisierung (Farben und Formen)
+type <- delete_vertices(hw_komplex, V(hw_komplex)[type ==" 1"])
+type <- delete_vertices(hw_komplex, V(hw_komplex)[type ==" 2"])
+
+V(hw_komplex)[V(hw_komplex)$type == 1]$label.color <- "orange" # Filme
+V(hw_komplex)[V(hw_komplex)$type == 2]$label.color <- "darkgreen" # Schauspielerinnen
+
+V(hw_komplex)[V(hw_komplex)$type == 1]$edge.color <- "black"
+V(hw_komplex)[V(hw_komplex)$type == 2]$edge.color <- "black"
+
+E(hw_komplex)[E(hw_komplex)$relationship == " 1"]$color <- "red" 
+E(hw_komplex)[E(hw_komplex)$relationship == " 2"]$color <- "gold"
+E(hw_komplex)[E(hw_komplex)$relationship == " 3"]$color <- "blue"
+E(hw_komplex)[E(hw_komplex)$relationship == " 4"]$color <- "purple"
+V(hw_komplex)[V(hw_komplex)$name == "Ben Affleck"]$frame.color <- "white"
+
+V(hw_komplex)[V(hw_komplex)$pattern == 1]$frame.color <- "pink"
+V(hw_komplex)[V(hw_komplex)$pattern == 2]$frame.color <- "grey60"
+
+
+V(hw_komplex)[V(hw_komplex)$frequency == 3]$shape <- "square"
+V(hw_komplex)[V(hw_komplex)$frequency == 2]$shape <- "circle"
+V(hw_komplex)[V(hw_komplex)$type == " 99"]$shape <- "rectangle"
+
+
+# Dann legen wir die Visualisierungsparameter fest.
+par(mar=c(6,3,3,3)) 
+
+# Plot mit den gesetzten Farben für das Attribut Beziehung realisieren
+plot(hw_komplex,
+     edge.arrow.size=.5,
+     vertex.size=20,
+     layout=layout_with_kk,
+     edge.curved=curve_multiple(hw_komplex),
+     main="Multiplexes Netzwerk des Netzwerks hw",
+     sub="rot = Liebesbeziehung, gold = persönliche Beziehungen, \n blau = Businessbeziehung, lila = Social Media Verbindung, \n pink = entspricht dem Muster, grau = entspricht nicht dem Muster, \n Kreis = bis zu 3x unter Harvey Weinstein gespielt, Viereck = ab 4x unter Harvey Weinstein gespielt")
+
+par(mar=c(0,0,0,0)) 
+
+```
+
+# 15. Analyse der Ergebnisse
+
+Wir möchten nun die vorhandenen Ergebnisse analysieren. Dazu werden unterschiedliche Faktoren sowie Ergebnisse der vorangegangenen Untersuchungen berücksichtigt und mit weiteren Informationen um den Fall Weinstein in Verbindung gebracht.
+
+## 1.	Die Netzwerke 
+Wir arbeiteten mit zwei Netzwerken, die beide eine Aussagekraft besaßen. Das Netzwerk hw beinhaltet die Verbindungen der Schauspielerinnen und deren gemeinsamen Filme sowie alle Verbindungen, die über das Edge-Attribut relationship codiert sind. Diese Verbindungen haben wir mit dem Grundnetzwerk herausgelöscht, damit wir so weiter arbeiten konnten, da dieses unserem ersten Gedanken enstprach. Nichtsdestotrotz konnten wir aus beiden Netzwerken aussagekräftige Informationen ziehen, die wir nun darstellen möchten. 
+
+Bei der Analyse des Netzwerkes fokussierten wir uns zunächst auf die unterschiedlichen Node-Attribute. 
+
+## 2.	Die Produktionsfirmen
+Der Einfluss der Produktionsfirma Miramax im Bezug auf eine erhöhte Wahrscheinlichkeit des sexuellen Missbrauchs der Schauspielerinnen durch Harvey Weinstein konnte hier jedoch nicht nachgewiesen werden: Nur drei der in unserem Netzwerk befindlichen Filme wurden von Miramax produziert, fünf hingegen von anderen Studios. Somit erhöhte die Wahl der Produktionsfirma eines Filmes in unserem Netzwerk nicht die Wahrscheinlichkeit, Opfer Weinsteins zu werden. 
+
+## 3.	Die Produktionsjahre
+Die Zahl an Veröffentlichungen der in unserem Netzwerk befindlichen Filme erreicht zwischen 2000 und 2009 ihren Höhepunkt. Dieser Zeitraum stellt auch in Harvey Weinsteins Karriere einen Höhepunkt dar: Während er zu Beginn der 2000er noch erfolgreiche Filme unter Miramax gemeinsam mit seinem Bruder produziert, verlässt er die Firma zur Mitte der Dekade und gründet mit ihm „The Weinstein Company“. Das Unternehmen entwickelt sich ebenfalls schnell zum Erfolg und kann Berater wie Robert Redford und Regisseur Quentin Tarantino für sich gewinnen. Letzterer wird von Uma Thurman, Schauspielerin und ebenfalls Opfer Weinsteins, ebenfalls des sexuellen Übergriffs beschuldigt. 
+
+## 4.	Die Geburtsjahre der Schauspielerinnen 
+Bezüglich der Geburtsjahre der Darstellerinnen in unserem Netzwerk lässt sich zwar ein Schwerpunkt zwischen 1961 und 1980 feststellen, jedoch variiert das Alter dieser zum Zeitpunkt der Übergriffe sehr stark. Kate Beckinsale war 17 Jahre alt, Gwyneth Paltrow hingegen 22, Sean Young wiederum 33 und Ashley Judd 29 Jahre alt. Rose McGowan wurde mit 24 belästigt, Lena Headey im Alter von 31 und Daryl Hannah war bereits 43, nur um einige Beispiele zu nennen. Somit lässt sich im Bezug auf das Alter der Schauspielerinnen kein Muster erkennen.
+
+## 5.	Die Herkunftsregionen der Schauspielerinnen 
+Des Weiteren haben wir uns die Herkunftsländer der Schauspielerinnen angeschaut. Nordamerika (inkl. Kanada) erweist sich mit 6 von 10 Fällen als am stärksten vertretenes Herkunftsland. Dies erscheint in Anbetracht der Tatsache, dass Amerika immer noch als Hauptzentrum der Filmindustrie gilt, als durchaus nachvollziehbar. Hinzu kommt, dass Harvey Weinstein selbst Amerikaner ist und viele der von ihm gedrehten Filme ihre Dreharbeiten in den Vereinigten Staaten hatten. Ein erstes Muster Weinsteins lässt also darauf schließen, dass er Amerikanerinnen bevorzugte. 
+
+## 6.	Die Häufigkeit, unter Produktionen von Harvey Weinstein mitgespielt zu haben 
+Des Weiteren untersuchten wir, ob die Anzahl der Produktionen unter Weinstein etwas am Ergebnis ändert. Da vier von ihm belästigte Schauspielerinnen unserer Liste an vier oder mehr Produktionen teilnahmen, schlussfolgerten wir, dass die Häufigkeit keinen Einfluss auf das Ergebnis hatte. Das lag daran, dass Harvey Weinstein über die Karriere der oft noch sehr jungen Frauen eine solche Macht besaß, dass er diese komplett kontrollieren konnte. Er war in der Lage, die Karriere so zu pushen oder zu zerstören, dass eine Schauspielerin danach entweder sehr großen Erfolg bzw. die totale Niederlage erlitt. Letzteres wollte natürlich keine Schauspielerin, vor allem in den Anfangsjahren ihrer Karriere, riskieren. Aus diesem Grund schwiegen die Schauspielerinnen trotz der Übergriffe. Besonders Gwyneth Paltrow kann hier als sozusagenes Musterbeispiel verwendet werden. Sie wurde als Druckmittel Weinsteins für ihre Kolleginnen verwendet. So benutzte Harvey Weinstein sie, um vor anderen Schauspielerinnen zu verdeutlichen, wie er Paltrows Karriere gepusht hatte. Diese spielte somit weiterhin unter seinen Produktionen mit, warnte allerdings ohne die Kenntnis von Weinstein mögliche andere Betroffene. 
+
+## 7.	Harvey Weinsteins Muster
+Betrachtet man die Beschreibungen der Schauspielerinnen in Bezug auf die Abläufe der Überfälle, lassen sich sehr schnell Muster erkennen. Viele der betroffenen Frauen schilderten, dass Weinstein sie auf seinem Hotelzimmer treffen wollte. Dort wartete er im Bademantel auf sie, bot ihnen eine Massage an und nutzte dies als Ausgangspunkt für seine sexuellen Belästigungen. Dies übertrugen wir auf unsere Schauspielerinnen und stellten fest, dass dieses Schema auf acht von zehn Schauspielerinnen zutraf. Die Aussagekraft ist dementsprechend hoch. Allerdings beweist dies auch, dass wenig bzw. nur ausgewählte Kommunikation unter den Schauspielerinnen selbst stattfand, da diese, wie oben beschrieben, ihrer Karriere willen und wegen Drohungen Weinsteins nicht reden konnten. 
+
+## 8.	Die Schweigegeldzahlungen
+Passend zu dem Muster Harveys sowie der Häufigkeit der Produktionen unter ihm passt auch die Kategorie Schweigegeldzahlungen. Diese Zahlungen erhielten nur wenige unserer Schauspielerinnen. Das ändert allerdings nichts an der Aussagekraft, da dies in das gesamte Konstrukt passt. Die Schauspielerinnen zogen die Fortsetzung und überhaupt Erstellung ihrer Karriere einer Klage vor. Das lag daran, dass sie mögliche zukünftige Rollen nicht gefährden wollten und ihnen oft sowieso kein Glauben geschenkt wurde, oder viel schlimmer noch, sie dafür sogar beschimpft und beleidigt wurden. Dementsprechend kann auch hieraus geschlussfolgert werden, dass wenig Kommunikation zu anderen Betroffenen stattfand. 
+
+## 9.	Erstes Resümee
+Aus diesen Node-Attributen waren für uns vor allem payment, pattern und frequency entscheidend, weshalb wir diese auch noch einmal in Gegenüberstellung betrachteten. Daraus ergab sich für uns vor allem der Schluss, dass es irrelevant war, ob die Schauspielerinnen mehrfach in von Weinstein produzierten Filmen mitspielten oder klagten und Schweigegeldzahlungen erhielten oder ob ihr Fall dem Muster entsprach oder nicht. Zentral ist, dass rein über diese Attribute vermutlich wenig Austausch rückzuschließen ist, da die Schauspielerinnen über ihre eigene Karriere besorgt waren und deshalb wenn dann nur mit engsten Kollegen sowie der Familie sprachen und es nicht an die Öffentlichkeit trugen. Denn das änderte sowieso nichts. Die Macht Weinsteins war so groß und seine Masche (zum einen, dass er Amerikanerinnen bevorzugte und zum anderen der klare Ablauf der Belästigung) so eindeutig, effektiv und grausam, dass die Schauspielerinnen wenig Chance hatten, sich alleine gegen ihn zu stellen. Abgesehen davon, dass sie damit gar nicht ernst genommen wurden, war es außerdem so, dass eine Zahlung oder die Häufigkeit der Filme unter Weinstein keinen Unterschied für ihn bedeuteten. Wäre das Netzwerk hier früher aktiv geworden, hätte sich zusammengestellt und kommuniziert, hätte dem ganzen vielleicht ein früheres Ende gesetzt werden können. 
+
+Des Weiteren betrachteten wir in unserer Analyse auch verschiedene Beziehungsformen, um so weitere mögliche Kontaktpunkte der Schauspielerinnen definieren zu können. 
+
+## 10.	Die romantischen und geschäftlichen Beziehungen 
+Diese beiden Typen an Beziehungen verbanden wir, das wir feststellten, dass zwei von unseren Schauspielerinnen in einer Beziehung mit Ben Affleck gewesen waren. Dass sich diese Schauspielerinnen durch die gemeinsame Vergangenheit oder jeweils mit ihm selbst über den Fall unterhalten haben, ist somit recht wahrscheinlich. Diese beiden Schauspielerinnen, Gwyneth Paltrow und Salma Hayek, pflegten jeweils auch noch geschäftliche Beziehungen zu jeweils anderen Personen. So spielten beispielsweise Kate Beckinsale und Gwyneth Paltrow in unterschiedlichen Version des Films „Emma“ mit. Hier gab es noch eine dritte Version mit einer weiteren Schauspielerin, die wir ursprünglich, vor der Selektion, auch im Netzwerk aufgenommen hatten: Romola Garai Des Weiteren verschaffte Salma Hayek Ashley Judd eine Rolle in ihrem Film „Frida“. Dass bei solchen Gelegenheiten das Gesprächsthema auf Harvey Weinstein fiel, ist zwar möglich, allerdings weniger realistisch als bei den persönlichen Beziehungen. 
+
+## 11.	Die persönlichen Beziehungen 
+Wir schauten uns deshalb auch die persönlichen Beziehungen der Schauspielerinnen untereinander an. Hierunter fallen alle Kategorien, die den Privatbereich berühren, d.h. Freundschaft, Hass, privater Kontakt durch gegenseitigen Austausch und gemeinsame Unternehmungen. In dem Netzwerk wird nun deutlich, dass Rose McGowan im Zentrum steht und somit Beziehungen zu mehreren Personen pflegt. Da der Bereich der Privatsphäre eher dazu ermutigt, sich über intime Dinge auszutauschen, ist es realistischer, dass sich Rose McGowan über das Erlebte ausgetauscht hat, als die Schauspielerinnen, die unter der geschäftlichen Beziehung zusammengefasst sind. 
+
+## 12.	Die Verbindungen auf Instagram
+Wir betrachteten außerdem die Followerschaften der Schauspielerinnen auf Instagram. Hier ist zu beachten, dass nicht alle das soziale Medium besitzen und dass sich auch nicht alle gegenseitig folgen. Deshalb interessierten uns vor allem die reziproken Beziehungen, da bei diesen am ehesten davon auszugehen ist, dass tatsächlicher Kontakt und vor allem Austausch vorhanden ist. 
+
+## 13.	Zweites Resümee 
+Die Betrachtung der Verbindungen via sozialer Medien, hinsichtlich der persönlichen, romantischen und gesellschaftlichen Beziehungen lässt klare Schlüsse zu: Ashley Judd und Salma Hayek haben in jeder dieser Kategorien eine Verbindung, ebenso wie Kate Beckinsale und Rose McGowan. Diese Kernverbindungen lassen also ziemlich wahrscheinlich darauf schließen, dass diese sich auch privat ausgetauscht haben. Uma Thurman und Rose McGowan führen eine private Beziehung und haben eine einseitige Social-Media-Beziehung – gleiches gilt für Salma Hayek und Rose McGowan. Salma Hayek und Gwyneth Paltrow sind via eines gemeinsamen Partners und einer einseitigen Social-Media-Beziehung vereint. Connie Nielson, die vor allem durch den Closeness-Wert aufgefallen ist, spielt hier nur durch eine einseitige Socia-Media-Beziehung zu Gwyneth Paltrow eine Rolle. Sie ist demnach, wie vermutet, nicht so relevant für unsere Forschungsfrage, wie die anderen Charaktere. 
+
+## 14.	Die Komponenten
+Bei den Komponenten war für uns hauptsächlich die größte mit elf Knoten relevant. Die dabei stärkste Verbindung hat Uma Thurman, die in vier verschiedenen Filmen mitspielt und somit sehr zentral ist. 
+
+## 15.	Die beiden Cluster
+Die Cluster waren für uns sehr aufschlussreich, da bei dem Cluster-Walktrap die Beziehungen im Vordergrund standen. Auch hier wurde deutlich, dass Social-Media und die persönlichen Verbindungen sehr ausschlaggebend sind. Zentrale Knoten hierbei sind Uma Thurman, Rose McGowan und Salma Hayek – so, wie es sich auch schon des Öfteren in anderen Analysen gezeigt hat. Diese Erkenntnis wird durch die Visualisierung des Edge-Betweenness-Clusters nur unterstützt. Die zentralen Knoten Uma Thurman, Rose McGowan und Salma Hayek werden hierbei noch um Kate Beckinsale und Connie Nielsen ergänzt. Diese Knoten haben also eine besondere Relevanz für uns. 
+
+## 16.	Die Clique
+Von insgesamt acht Cliquen wird die größte durch Daryl Hannah, Sean Young und deren gemeinsamen Film „Wall Street“ generiert. Die persönliche Beziehung, die sie verbindet, liegt einer Mobbingaktion Youngs gegenüber Hannah zugrunde, die aufgrund einer Unzufriedenheit am Set entstand. Es ist also unrealistisch, dass sich die beiden miteinander über Intimes ausgetauscht haben. 
+
+## 17. Das Ego-Netzwerk
+Das Ego-Netzwerk, das wir erstellten, generiert sich um die Schauspielerin Salma Hayek herum. Salma Hayek hat demnach die meisten Verbindungen und spielt eine sehr zentrale Rolle in unserem Netzwerk, wie bei den anderen Operatoren auch bereits gesehen. Die stärkste Verbindung hat sie zu Ashley Judd, da sie mit ihr eine Personal-, eine Business und eine Social- Media-Relationship besitzt, sowie mit ihr gemeinsam in einem Film spielt. Hieraus kann man schließen, dass die beiden sich sehr wahrscheinlich über das Erkebte ausgetauscht haben. Danach folgt Rose McGowan, die die zuvor genannten Relationships mit ihr teilt, aber nicht zusammen mit ihr in einem Film gespielt hat. Zusätzlich ist das Love-Triangle zwischen Salma Hayek, Gwyneth Paltrow und Ben Affleck im Ego-Netzwerk dargestellt. Hayek bildet also eine Vielzahl an Verbindungen ab, die auch noch alle unterschiedlich sind. Ihre Relevanz ist demnach sehr hoch. 
+
+## 18. Der Closeness-Wert
+Den höchsten Closeness Wert zeigt Connie Nielsen auf. Sie hat nicht den höchsten Degree-Wert, ist also in Bezug auf ihre Beziehungen unwichtig, aber zum Erreichen anderer Teile des Netzwerkes wichtig und hat somit den Knoten mit dem höchsten Hub-Effekt inne. Diese Erkenntnis hatten wir nicht vermutet und überraschte uns dementsprechend. Dennoch ist es so, dass unser Netzwerk konstruiert und zusammengestellt ist und sich daraus nicht schließen lässt, ob und wie die Schauspielerinnen kommuniziert haben. Es lässt sich nur sagen, dass sie eine Kernfunktion innerhalb dieser Zehnergruppe darstellt, die sonst allerdings nicht der Fall ist. 
+
+## 19.	Der Degree- und der Betweenness-Wert 
+Wie wir bereits mit Hilfe des Ego-Netzwerkes feststellen konnten, hat Salma Hayek den höchsten Degree-Wert inne. Ihre Relevanz war uns deshalb bewusst. Überraschend fanden wir auch nicht, dass Uma Thurman den höchsten Betweenness-Wert hat und somit ebenfalls eine hohe Relevanz aufweist. Sie ist eine zentrale Schnittstelle, um von A nach B zu kommen und könnte somit auch Mittelsmann zwischen mehreren Schauspielerinnen und der entsprechenden Kommunikation gewesen sein. 
+
+Des Weiteren betrachteten wir das Netzwerk im Allgemeinen und hier vor allem die Elemente der Transitivität und der Reziprozität. 
+
+## 20.	Die Transitivität 
+Diese liegt in unserem Netzwerk bei 25 Prozent, also einem Viertel. Auch wenn dies auf den ersten Blick wenig scheinen mag, ergibt es dennoch inhaltlich Sinn. Die Schauspielerinnen konnten sich nicht austauschen und somit weitere Kontakte im Sinne der Transitivität knüpfen, da sie Angst um den Fortlauf ihrer Karriere hatten und sich erst äußerten, als der Fall öffentlich wurde. Daraus lässt sich schließen, dass sie vorher nur mit dem engsten Personenkreis, sprich Familie und beste Freunde, geredet haben. 
+
+## 21.	Die Reziprozität 
+Die Reziprozität im Netzwerk allgemein beträgt 50 Prozent, was hauptsächlich an den gemeinsamen Filmen liegt. Wir untersuchten deshalb auch noch die Reziprozität der einzelnen Teilnetzwerke, die anhand der Edge-Attribute erstellt wurden. Bei den persönlichen Verbindungen lässt sich feststellen, dass es bis auf Sean Young und Daryl Hannah nur gegenseitige Verbindungen gibt. Diese Kategorie ist deshalb sehr aussagekräftig, da sie die sowieso schon vermuteten stärkeren persönlichen Beziehungen stärkt. Die Reziprozität bei dem Liebes- und Business-Netzwerk beträgt eins, es sind also alle Knoten gegenseitig realisiert. Bei dem Netzwerk rund um Social-Media wiederum ist die Reziprozität nicht so aussagekräftig, da dies von den gegenseitigen Followerschaften abhängt. Daraus lässt sich schlussfolgern, dass die Wahrscheinlichkeit höher ist, dass die Schauspielerinnen befreundet sind und sich deshalb auf Social Media folgen und nicht andersherum. 
+
+## 22. Drittes Resümee
+Wie bereits bei den obigen Analysen gezeigt, entsprechen die hier auftretenden Charaktere den bereits vermuteten starken Schauspielerinnen in unserem Netzwerk. Die Ergebnisse wiederholen sich damit und steigen somit an Aussagekraft. 
+
+## 23. Multiplexes Netzwerk
+Das multiplexe Netzwerk gewährte uns die Schlussfolgerung, dass die Schauspielerinnen auf sehr unterschiedliche Art alle miteinander vernetzt sind und somit eine Vielzahl an Verbindungen besteht. Die meisten Schauspielerinnen sind demnach auf mindestens eine Art miteinander vernetzt, die zentralen Knoten auf so gut wie alle. 
+
+## 24. Finales Resümee
+Schlussendlich lässt sich zusammenfassen, dass die Analysen und die Netzwerke unsere Vermutungen stützen. Zentrale Akteure unseres Netzwerkes sind unsere Basis und wurden mehrfach bestätigt. Zentrale Figuren sind demnach: Ashley Judd, Salma Hayek, Kate Beckinsale, Rose McGowan, Uma Thurman, Gwyneth Paltrow und am Rande auch Connie Nielsen. Mit mehr als der Hälfte aller erhobenen Schauspielerinnen sind dies somit aussagekräftige Ergebnisse, die unsere Hypothesen unterstreichen und eine Verifizierung nahe legen. 
+
+
+# 16. Diskussion: Fazit, Limitationen und Ausblick
+
+## 16.1. Fazit
+Anhand unserer Forschung konnten wir viele unserer Hypothesen belegen. Der erste Kontakt zwischen den Schauspielerinnen erfolgte meist dadurch, dass sie in gemeinsamen Filmen zusammenspielten. Dadurch oder unabhängig davon entstanden Freundschaften. Am deutlichsten ausgeprägt ist dies bei Ashley Judd und Salma Hayek. Ashley Judd interviewte Salma Hayek zu den Vorfällen mit Harvey Weinstein und die Beiden verbrachten ihre Freizeit an Filmsets und sogar Urlaube zusammen. Ebenso konnten wir feststellen, dass zwei Schauspielerinnen auch durch einen gemeinsamen (Ex-) Partner miteinander verbunden waren: Salma Hayek und Gwyneth Paltrow pflegten beide eine Liebesbeziehung zu Ben Affleck. Ob sich die Schauspielerinnen nicht nur untereinander, sondern auch innerhalb ihres Freundes- und Familienkreises über die Vorfälle austauschten, konnten wir nicht belegen. Auch via sozialer Medien gab es Verbindungen: So folgen sich viele der Schauspielerinnen gegenseitig auf Instagram, vereinzelt haben sich die Schauspielerinnen auch in Twitter Posts aufeinander bezogen, wie es beispielsweise bei Rose McGowan und Salma Hayek der Fall war.
+
+Allerdings ließ sich feststellen, dass die Schauspielerinnen prinzipiell Hemmungen hatten, mit ihren Geschichten an die Öffentlichkeit zu gehen. Dies hat zwei Gründe: Erstens wurden alle von Harvey Weinstein bedroht, er könne ihre Karriere manipulieren und dafür sorgen, dass sie es in der Branche zukünftig deutlich schwerer haben würden, zweitens kam es sogar zu Schweigegeldzahlungen an vereinzelte Schauspielerinnen. Verträge dieser Art gab es zwischen Harvey Weinstein und Ashley Judd und Rose McGowan.
+
+Dennoch gingen einen Frauen an die Öffentlichkeit. Durch die Veröffentlichung kamen aber viele Details ans Licht, die vorher ungeklärt waren. So konnten wir durch den Austausch der Schauspielerinnen untereinander und mit den Autorinnen des Buches #MeToo ein Muster in den Belästigungen Harvey Weinsteins erkennen. Dieses Muster verfolgte er auch bei dem Großteil unserer Schauspielerinnen. Verklagt wurde Harvey Weinstein nur von Ashley Judd und Rose McGowan, die auch mit als eine der Ersten mit dem Fall an die Öffentlichkeit ging.
+
+Abschließend lässt sich feststellen, dass viele verschiedene Formen von Beziehungen zur Veröffentlichung beigetragen haben. Wir können vermuten, dass der persönliche Austausch untereinander den Schauspielerinnen zum nötigen Mut verholfen haben, auch öffentlich über ihre Erlebnisse zu berichten, da sie das Gefühl bekamen, nicht alleine zu sein. Dies wurde vor allem durch mehrere zentrale Figuren in unserem Netzwerk angestoßen, wie oben nachzulesen ist. 
+## 16.2 Limitationen
+
+Die größte und prägnanteste Limitation, der wir uns stellen mussten, war die, dass wir die Ergebnisse schlussendlich einfach nicht verizifieren können. Denn selbst wenn wir noch so erfolgreich nachweisen können, wer mit wem gesprochen haben muss, waren wir nicht dabei. Wir können somit nur Spekulationen anstatt konkreter Ergebnisse vorweisen. Dies war uns allerdings von vorne herein bewusst - nichtsdestotrotz wollten wir diese Forschungsarbeit angehen, da sie für uns, vor allem, da wir alle auch Frauen sind, von enormer Bedeutung ist, sei es auf einer politischen oder ethischen Ebene. 
+
+Zudem standen wir vor einigen Ergebnissen, die wir nicht richtig einordnen können. So ergab für uns die größte Clique um Sean Young, Daryl Hannah und deren gemeinsamen Film keinen Sinn. Viel eher hätte für uns eine der anderen sieben Cliquen einen inhaltlichen Zusammenhang erklärt. 
+
+## 16.3 Lessons learned
+Genau wie Erfolgserlebnisse, waren Hindernisse und Einschränkungen Teil unseres Projektes. Dabei gab es anfänglich schon Schwierigkeiten, unser Forschungsziel und die damit verbundene Recherche-Arbeit genau zu definieren. Da wir tatsächlich alle Filme von jeder unserer 70 Schauspielerinnen rausgesucht hatten, gingen wir das Thema sehr breitgefächert an. Dies war jedoch notwendig und stellte die Grundlage für unser finales Netzwerk dar. Somit konnten wir diejenigen Schauspielrinnen herausfiltern, die mindestens in einem Film gemeinsam gespielt haben. Aufgrund unserer langen Liste von Schauspielerinnen und Filmen, hatten wir Probleme, die Edge- und Nodeliste für das Einlesen in R-Studio funktionstüchtig zu machen. Nach langen Abgleichungen von Dopplungen und dem Entfernen von Isolates, hatten wir unser finales Netzwerk, mit welchem wir nun in R-Studio arbeiten konnten. Wie zuvor schon erwähnt, haben wir unsere Recherche nochmals stark präzisiert. Dies veränderte das Ziel unserer Forschung, was jedoch in jedem Fall sinnvoll war. Als es dann darum ging, unsere Recherche-Ergebnisse auf unsere Netzwerkerstellung in R-Studio zu übertragen, stießen wir auf die meisten Hindernisse. Wir taten uns sehr schwer unser Wissen, das wir durch die Recherche hatten, sinngemäß zu visualisieren. Das lag zum einen daran, dass man gewisse Informationen, wie z. B unsere Hypothesen, nicht in R veranschaulichen kann. Zum anderen besitzen wir alle nur begrenzte Fähigkeiten für das Programm R-Studio, da wir im dritten Semester aufgrund der ungünstigen Corona-Situation und dem damit verbunden Onlinesemester schlichtweg nicht die Möglichkeit hatten, das Programm R-Studio optimal zu nutzen und zu erlernen. Was wir während der kompletten Zeit gelernt haben, ist, dass sich einzelne Arbeitsschritte in den meisten Fällen nach hinten herauszögerten. Dies bedeutet in unserem Fall, dass wir oftmals mehr Zeit für eine Aufgabe benötigten, als wir vorher dachten. Dabei ist nämlich immer damit zu rechnen, dass etwas nicht auf Anhieb funktioniert. In diesem Sinne sollte man bei jeder noch so kleinen Aufgabe einen zeitlichen Puffer einplanen. Zudem lernten wir, dass es manchmal notwendig ist, umzudenken und sich nicht zu sehr an einzelnen Punkten aufzuhängen.  
+
+## 16.4 Teamreflektion (Teilnehmerinnen und Arbeitsaufwand)
+Wie schon in der Einleitung beschrieben, fand sich unser Team aufgrund des gemeinsamen Interesses an unserem Thema recht schnell zusammen. Anfangs bestand unser Team aus 6 Personen. Während der Semesterferien, in denen wir uns schon in den ersten Zügen unserer Recherche befanden, verließ uns ein Teammitglied. Somit stellt sich unser Team nun aus Clara Schneemann (cs286), Julia Lindner (jl125), Lili Biberthaler (lb144), Valerija Vasylevytska (vv010) und Michelle Noss (mn063) zusammen. Die Aufgaben teilten wir uns ganz zu Beginn unabhängig von unseren persönlichen Fähigkeiten auf, da wir uns alle unvoreingenommen auf die Aufgabenstellung eingelassen haben. Umso näher wir unserer Abgabe des Forschungsberichts kamen, teilten wir unsere Aufgaben nach persönlichen Fähigkeiten auf. Jedoch war es von Anfang an so, dass oftmals einer von sich aus vorgeschlagen hat, ein Thema zu bearbeiten, mit dem er sich beispielsweise ohnehin schon beschäftigt hatte. Dies hat sehr viel Positives zu unserem Workflow Anfang des 4. Semesters beigetragen. Durch regelmäßige Meetings konnten wir ein gutes Zeitmanagement aufrechterhalten. Wir erstellten uns immer Zeitpläne mit den entsprechenden To Do´s. Der Zeitaufwand steigerte sich mit jeder Woche, sodass wir in der Endphase auf einen extrem hohen Zeitaufwand von 25 Stunden pro Woche kamen. 
+
+Daraus resultierten folgende Teilnehmerinnen: 
+Clara Schneemann (cs286) - Matrikelnummer: 38830, 
+Julia Lindner (jl125) - Matrikelnummer: 38523, 
+Lili Biberthaler (lb144) - Matrikelnummer: 38519, 
+Valerija Vasylevytska (vv010) - Matrikelnummer: 38302 und 
+Michelle Noss (mn063) - Matrikelnummer: 38068. 
+
+Alle Teilnehmerinnen hatten einen geschätzten Arbeitsaufwand von 150 Stunden. 
+
+## 16.5 Ausblick
+Derzeit sitzt Harvey Weinstein seine 23-jährige Haftstrafe in einem Gefängnis im Norden des US-Bundesstaates New York ab. Zu dieser wurde er im Februar 2020 von einem New Yorker Gericht wegen Vergewaltigung und sexueller Nötigung verurteilt worden. Außerdem wurde er in Kalifornien wegen sechs neuer Punkte, darunter drei Vergewaltigungsfälle, Anfang Oktober, angeklagt. Sollte er für diese Taten verurteilt werden, drohen Weinstein bis zu 140 Jahre Haft. Zudem besteht der Verdacht auf COVID19 Symptome. Der gefallene Filmmogul soll während der Haftstrafe am Corona Virus erkrankt sein. Der Fall und vor allem der Hashtag "metoo" haben demnach sehr zu einer Aufklärung eines Skandales beigetragen und die Sensibilität für das Thema geschärft, das leider mit diesem Fall, der auch noch nicht komplett aufgearbeitet ist, noch nicht erledigt ist. 
+
+# 17. Literatur und Anhang
+
+## 17.1 verwendete Literatur
+Aniftos, R. Rose McGowan Shows Love for Salma Hayek After Op-Ed Exposing ‚Monster‘ Harvey Weinstein. Billboard. Abgerufen 18. November 2020 (https://www.billboard.com/articles/news/8070498/rose-mcgowan-salma-hayek-oped-harvey-weinstein).
+
+Beckinsale, K. Kate Beckinsale auf Instagram: ‚I was called to meet Harvey Weinstein at the Savoy Hotel when I was 17. I assumed it would be in a conference room which was very. Instagram. Abgerufen 18. November 2020 (https://www.instagram.com/p/BaJiAhyn7Y5/).
+
+Cocozza, P. 2019. Rosanna Arquette: ‘They Said I Was a Pain in the Ass. It’s Not True’. The Guardian. Abgerufen 18. November 2020 (http://www.theguardian.com/film/2019/aug/26/rosanna-arquette-they-said-i-was-a-pain-in-the-ass-its-not-true).
+
+Davies, C. & Khomami, N. 2018. Harvey Weinstein: The Women Who Have Accused Him. The Guardian. Abgerufen 18. November 2020 (http://www.theguardian.com/film/2017/oct/11/the-allegations-against-harvey-weinstein-what-we-know-so-far).
+
+dpa. 2017. Auch ‚Game of Thrones‘-Star Lena Headey äußert Weinstein-Vorwürfe. https://www.tz.de. Abgerufen 18. November 2020 (https://www.tz.de/stars/auch-game-of-thrones-star-lena-headey-aeussert-weinstein-vorwuerfe-zr-8783872.html).
+
+Farrow, R. 2017. Harvey Weinstein’s Army of Spies. The New Yorker. Abgerufen 18. November 2020 (https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies).
+
+Farrow, R. 2017. Weighing the Costs of Speaking Out About Harvey Weinstein. The New Yorker. Abgerufen 18. November 2020 (https://www.newyorker.com/news/news-desk/weighing-the-costs-of-speaking-out-about-harvey-weinstein).
+
+Hayek, S. 2017. Opinion | Harvey Weinstein Is My Monster Too. The New York Times. Abgerufen 18. November 2020 (https://www.nytimes.com/interactive/2017/12/13/opinion/contributors/salma-hayek-harvey-weinstein.html).
+
+Hayek, S. 2018. Ashley Judd Is Reclaiming Her Time. Town & Country. Abgerufen 18. November 2020 (https://www.townandcountrymag.com/leisure/arts-and-culture/a18729402/ashley-judd-interview-salma-hayek-april-2018/).
+
+Headey, L. lena headey auf Twitter. Twitter. Abgerufen 18. November 2020 (https://twitter.com/IAMLenaHeadey/status/920309494143504384).
+
+Horton, A. 2020. This Is Just the Beginning: Hollywood Reacts to Harvey Weinstein’s Conviction. The Guardian. Abgerufen 18. November 2020 (https://www.theguardian.com/world/2020/feb/24/hollywood-reacts-harvey-weinstein-conviction-ashley-judd-julianne-moore).
+
+O A. o. J. 7 Films Where The Stars Absolutely Hated Each Other. Entertainment.ie. Abgerufen 18. November 2020 (https://entertainment.ie/cinema/movie-news/7-films-where-the-stars-absolutely-hated-each-other-238707/).
+
+O A. 2018. Rose McGowan und Kate Beckinsale für die GQ Männer des Jahres Awards 2018 in Verbindung mit Hugo Boss gehalten in der Tate Modern in London Stockfotografie. Alamy. Abgerufen 18. November 2020 (https://www.alamy.de/rose-mcgowan-und-kate-beckinsale-fur-die-gq-manner-des-jahres-awards-2018-in-verbindung-mit-hugo-boss-gehalten-in-der-tate-modern-in-london-image217811849.html).
+
+Nielsen, C. 2017. Actress Connie Nielsen on Her Harvey Story and Debunking the Myth of ‘That Girl’ (Guest Column). Variety. Abgerufen 18. November 2020 (https://variety.com/2017/biz/news/connie-nielsen-harvey-weinstein-guest-column-1202597347/).
+Nowak, S. 2020. Harvey Weinstein: Ashley Judd darf ihre Klage fortsetzen. Rolling Stone. Abgerufen 18. November 2020 (https://www.rollingstone.de/ashley-judd-kann-klage-gegen-harvey-weinstein-wegen-sexueller-belaestigung-fortsetzen-2014897/).
+
+Mumford, G. 2017. Lena Headey Claims She Was Sexually Harassed by Harvey Weinstein. The Guardian. Abgerufen 18. November 2020 (http://www.theguardian.com/film/2017/oct/18/lena-headey-sexually-harassed-harvey-weinstein-game-of-thrones).
+
+O A. 2017. Weitere US-Schauspielerin wirft Weinstein Vergewaltigung vor. kurier at. Abgerufen 18. November 2020 (https://kurier.at/stars/weitere-us-schauspielerin-wirft-weinstein-vergewaltigung-vor/294.880.177).
+
+Davies, C. & Khomami, N. 2018. Harvey Weinstein: The Women Who Have Accused Him. The Guardian. Abgerufen 18. November 2020 (http://www.theguardian.com/film/2017/oct/11/the-allegations-against-harvey-weinstein-what-we-know-so-far).
+
+IMDb. o.J. IMDb: Ratings, Reviews, and Where to Watch the Best Movies & TV Shows. IMDb. Abgerufen 18. November 2020 (http://www.imdb.com/).
+
+Instagram. o. J.  Instagram. Abgerufen 18. November 2020 (https://instagram.com/).
+Jackson, V. Rose McGowan Gets Support From Uma Thurman. e-online. Abgerufen 18. November 2020 (https://www.eonline.com/news/938814/rose-mcgowan-befriends-uma-thurman-in-wake-of-harvey-weinstein-sexual-assault-allegations-on-citizen-rose).
+
+Kantor, J. & Twohey, M. (2020). #Me Too: Von der ersten Enthüllung zur globalen Bewegung von Kantor. Stuttgart: Cotta´sche Buchhandlung Nachfolger GmbH. 
+
+Kantor, J. & Twohey, M. 2017. Harvey Weinstein Paid Off Sexual Harassment Accusers for Decades. The New York Times. Abgerufen 18. November 2020 (https://www.nytimes.com/2017/10/05/us/harvey-weinstein-harassment-allegations.html).
+
+Macfarlane, U. 2020. Amazon.de: Unantastbar - Der Fall Harvey Weinstein ansehen | Prime Video. Abgerufen 18. November 2020
+(https://www.amazon.de/Unantastbar-Fall-Harvey-Weinstein/dp/B086BTJKN2/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Untouchable+der+Fall+Harvey+Weinstein&qid=1605714881&sr=8-1).
+
+Mc Gowan, R. Rose McGowan auf Twitter. Twitter. Abgerufen 18. November 2020 (https://twitter.com/rosemcgowan/status/1232058368333897731).
+
+McGowan, R. 2019. I Can Confirm This. I Am in Cannes at This Moment. It Is Everywhere. The Damaged Young Women Here Are Ripe for Predators: Cannes Has a Sex Trafficking Problem Despite #MeToo Era Https://T.Co/IQIdqdvwNA. @rosemcgowan. Abgerufen 18. November 2020 (https://twitter.com/rosemcgowan/status/1130620059850891264).
+
+Munker, B. 2018. Uma Thurman: Weinstein hat mich belästigt. mainpost.de. Abgerufen 18. November 2020 (https://www.mainpost.de/ueberregional/boulevard/boulevard/uma-thurman-weinstein-hat-mich-belaestigt-art-9879875).
+
+O A. o. J. (176) Pinterest. Abgerufen 18. November 2020 (https://www.pinterest.de/pin/828521662682863838/).
+
+O A. 2018. Ashley Judd verklagt Harvey Weinstein wegen Belästigung und Verleumdung. DER SPIEGEL. Abgerufen 18. November 2020 (https://www.spiegel.de/panorama/justiz/ashley-judd-verklagt-harvey-weinstein-wegen-belaestigung-und-verleumdung-a-1205632.html).
+
+O A. o. J. E! Entertainment auf Instagram: ‚Salma Hayek and Kate Beckinsale donning similar shades at the #GoldenGlobes. #WhoWoreItBetter?‘. Instagram. Abgerufen 18. November 2020 (https://www.instagram.com/eentertainment/p/xvLR_JMyqk/?hl=de).
+
+O A. 2017. Harvey Weinstein hatte mächtige Freunde. Frankfurter Allgemeine. Abgerufen 18. November 2020 (https://www.faz.net/aktuell/gesellschaft/kriminalitaet/harvey-weinstein-hatte-maechtige-freunde-15327758.html).
+
+O A. 2018. Harvey Weinstein soll vor Gericht. GALA. Abgerufen 18. November 2020 (https://www.gala.de/stars/news/uma-thurman-harvey-weinstein-soll-vor-gericht-21585208.html).
+O A. o. J. Kate Beckinsale and Gwyneth Paltrow attend Victoria Beckham Collection dinner. Daily Mail Online. Abgerufen 18. November 2020 (https://www.dailymail.co.uk/tvshowbiz/article-3039386/Kate-Beckinsale-wows-plunging-jumpsuit-Gwyneth-Paltrow-chic-strapless-pencil-dress-support-Victoria-Beckham-collection.html).
+
+O A. o. J. Kate Beckinsale and Rose McGowan Attend DASHA ZHUKOVA & POP MAGAZINE.  Getty Images. Abgerufen 18. November 2020 (https://www.gettyimages.co.uk/detail/news-photo/kate-beckinsale-and-rose-mcgowan-attend-dasha-zhukova-pop-news-photo/659809808).
+
+O A. o. J. Kate Beckinsale, Marley Shelton, Rose McGowan and Rosario Dawson. Getty Images. Abgerufen 18. November 2020 (https://www.gettyimages.ae/detail/news-photo/kate-beckinsale-marley-shelton-rose-mcgowan-and-rosario-news-photo/77232463).
+
+O A. o. J. Rose McGowan Kate Beckinsale Redaktionelles Stockfoto – Stockbild | Shutterstock. Shutterstock Editorial. Abgerufen 18. November 2020 (https://www.shutterstock.com/editorial/image-editorial/gq-men-of-the-year-awards-champagne-reception-tate-modern-london-uk-05-sep-2018-9865498g).
+
+O A. o. J. The Allegations against Harvey Weinstein – a List. The Guardian. Abgerufen 18. November 2020 (http://www.theguardian.com/film/ng-interactive/2017/oct/13/the-weinstein-allegations).
+
+O A. o. J. Weinstein - Hollywoods Worst Kept Secret. Joyn. Abgerufen 18. November (https://www.joyn.de/filme/weinstein-hollywoods-worst-kept-secret).
+
+O A. o. J. (2017). Salma Hayek: ‚Harvey Weinstein war auch mein Monster‘. Die Zeit. Abgerufen 18. November (https://www.zeit.de/kultur/film/2017-12/salma-hayek-harvey-weinstein-missbrauch-frida-hollywood).
+
+O A. 2018. Hollywood: Uma Thurman wirft Weinstein sexuelle Gewalt vor. Die Zeit. Abgerufen 18. November 2020 (https://www.zeit.de/gesellschaft/2018-02/uma-thurman-vorwuerfe-harvey-weinstein-hollywood-missbrauch).
+
+O A. 2020. Kate Beckinsale über Weinstein-Urteil: ‚Eine große Erleichterung‘. DER SPIEGEL - Panorama. Abgerufen 18. November 2020 (https://www.spiegel.de/panorama/justiz/kate-beckinsale-ueber-harvey-weinstein-urteil-eine-grosse-erleichterung-a-5795669b-ffd6-4bfe-a4c8-da8edb3b21d9).
+
+O A. 2017. Frauen klagen an. Die Presse. Abgerufen 18. November 2020 (https://www.diepresse.com/5301362/frauen-klagen-an).
+
+Pulver, A. 2020. You Ruined My Premiere!‘: Beckinsale Recalls Weinstein’s Obscenity-Filled Rant. The Guardian. Abgerufen 18. November 2020 (http://www.theguardian.com/film/2020/mar/12/kate-beckinsale-harvey-weinstein-rant-new-york-premiere).
+
+Reiss, J. 2018. Ashley Judd and Salma Hayek Discuss Their Experiences With Harvey Weinstein. Complex. Abgerufen 18. November 2020 (https://www.complex.com/pop-culture/2018/03/ashley-judd-and-salma-hayek-discuss-their-experiences-with-harvey-weinstein).
+
+Rubin, R. 2017. „Actress Sean Young Alleges Harvey Weinstein Exposed Himself to Her“. Variety. Abgerufen 18. November 2020 (https://variety.com/2017/film/news/sean-young-harvey-weinstein-sexual-harassment-1202595284/).
+
+Rubin, R. Sean Young Alleges Harvey Weinstein Exposed Himself to Her. Variety. Abgerufen 18. November 2020y (https://variety.com/2017/film/news/sean-young-harvey-weinstein-sexual-harassment-1202595284/).
+
+Sager, J. 2017. Connie Nielsen slams Harvey Weinstein and victim-blaming. Page Six. Abgerufen 18. November 2020 (https://pagesix.com/2017/10/24/connie-nielsen-slams-harvey-weinstein-and-victim-blaming/).
+
+Sherlock, B. 2019. Do You Find Me Sadistic?: 10 Behind-The-Scenes Facts About Kill Bill. ScreenRant. Abgerufen 18. November 2020 (https://screenrant.com/tarantinos-kill-bill-behind-the-scenes-facts/).
+
+Stegbauer, C. & Häußling, R. (2010). Handbuch Netzwerkforschung. Bd. 4. Wiesbaden: VS Verlag.
+
+Thüne, P. 2020. Harvey Weinstein Skandal: Diese Frauen beklagen sexuelle Belästigungen. FOCUS. Abgerufen 18. November 2020 (https://praxistipps.focus.de/harvey-weinstein-skandal-diese-frauen-beklagen-sexuelle-belaestigungen_116394).
+
+
+## 17.2 Codebuch (Link auf Github)
+Der Datensatz ist unter [Github](https://github.com/HarveyWeinsteinNetzwerk ) verfügbar. 
+
+## 17.3 verwendete Datenquellen (Link auf Github Edge- und Nodelist)
+Die Daten sind unter folgendem Link verfügbar: https://github.com/HarveyWeinsteinNetzwerk/FinalesNetzwerk
+
+Link zur Edgelist: https://raw.githubusercontent.com/HarveyWeinsteinNetzwerk/FinalesNetzwerk/main/FinalesNetzwerk%20-%20Edgelist%20(8).csv
+
+Link zur Nodelist: https://raw.githubusercontent.com/HarveyWeinsteinNetzwerk/FinalesNetzwerk/main/FinalesNetzwerk%20-%20Nodelist%20(6).csv
+
+
+## 17.4 komplettes annotiertes RNotebook (Link auf Github)
+
